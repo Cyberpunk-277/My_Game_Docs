@@ -1,78 +1,47 @@
-MONEY SPENT ON GAMES 2018
+# 💸 Money Spent on Games — 2018
 
-TOTAL = $79.09 ON $176 + WORTH OF ITEMS
+**Total Spent:** $79.09  
+**Total Value:** $176+ worth of items  
 
--SPENT $50.87 ON
+---
 
-	FIFA 18 - $60
+## 🆓 Spent $0 On
 
--SPENT $0 ON
+- **Games (Gift Cards or Credit Used)**
+  - SteamWorld Dig 2 — $15 (Gamestop gift card)  
+  - West of Loathing — $8.46 (Gamestop gift card)  
+  - Fortnite Battle Pass: Season 3 — $10  
+  - Fortnite V-Bucks — $25 (PSN credit)  
+  - God of War — $60 (Gamestop credit)  
 
-	STEAMWORLD DIG 2 - $15
-	GAMESTOP GIFT CARD USED
+---
 
--SPENT $0 ON
+## 🛍️ Paid Purchases
 
-	WEST OF LOATHING - $8.46
-	GAMESTOP GIFT CARD USED
+- **$50.87**
+  - FIFA 18 — $60  
+  - Monster Hunter: World — $60 *(paid twice — see below)*  
+  - MLB The Show 18 — $60  
 
--SPENT $50.87 ON
+- **$3.02**
+  - Shadow of the Colossus — $40 *(deep discount)*  
 
-	MONSTER HUNTER: WORLD - $60
+- **$42.39**
+  - DualShock 4 — $60 *(after partial savings or trade)*  
 
--SPENT $3.02 ON
+- **$16.95**
+  - Bloodborne — $20  
 
-	SHADOW OF THE COLOSSUS - $40
+- **$8.25**
+  - Into the Breach — $15  
 
--SPENT $42.39 ON
+- **$58.29**
+  - Far Cry 5: Gold Edition — $100 *(covered partially by PSN credit)*  
 
-	DUALSHOCK 4 - $60
+---
 
--SPENT $16.95 ON
+## 📌 Notes
 
-	BLOODBORNE - $20
-
--SPENT $50.87 ON
-
-	MONSTER HUNTER WORLD - $60
-
--SPENT $0 ON
-
-	FORTNITE BATTLE PASS SEASON 3 - $10
-
--SPENT $8.25 ON
-
-	INTO THE BREACH - $15
-
--SPENT $58.29 ON
-
-	FAR CRY 5 - GOLD EDITION - $100
-	PSN CREDIT
-
--SPENT $50.87 ON
-
-	MLB THE SHOW 18 - $60
-
--SPENT $0 ON
-
-	FORTNITE VBUCKS - $25
-	PSN CREDIT 
-
--SPENT $0 ON
-
-	GOD OF WAR - $60
-	GAMESTOP CREDIT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- All prices reflect base or discounted retail cost.  
+- Gift cards and credit usage excluded from “spent” total.  
+- Value estimate likely exceeds $176 when factoring editions (e.g., Far Cry 5: Gold).  

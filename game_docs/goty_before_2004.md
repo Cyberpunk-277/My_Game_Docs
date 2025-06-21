@@ -1,22 +1,29 @@
-GOTY < 2004
+# 🏆 Game of the Year: Pre-2004
 
-POKÉMON BLUE - Metacritic Score: 88
-TONY HAWK'S PRO SKATER 3 - Metacritic Score: 97
-HALO: COMBAT EVOLVED - Metacritic Score: 97
-SONIC THE HEDGEHOG 3 - Metacritic Score: 84
-SUPER SMASH BROS. MELEE - Metacritic Score: 92
-ADVANCE WARS 2: BLACK HOLE RISING - Metacritic Score: 89
-GRAND THEFT AUTO: VICE CITY - Metacritic Score: 95
-SSX TRICKY - Metacritic Score: 92
-CHRONO TRIGGER - Metacritic Score: 92
-FINAL FANTASY X - Metacritic Score: 92
-THE TIME WARP OF DR. BRAIN - Metacritic Score: 86
-ROLLERCOASTER TYCOON DELUXE - Metacritic Score: 88
-MATH BLASTER: EPISODE 1 - IN SEARCH OF SPOT - Metacritic Score: 82
-SUPER MUNCHERS - Metacritic Score: 78
-ZOOMBINIS - Metacritic Score: 78
-BACKYARD BASEBALL 2001 - Metacritic Score: 85
-TURBO MATH FACTS - Metacritic Score: 82
-NFL STREET - Metacritic Score: 81
-NBA STREET - Metacritic Score: 89
-COIN CRITTERS - Metacritic Score: 76
+## 🎮 Top Games
+
+- Pokémon Blue — Metacritic: 88  
+- Tony Hawk’s Pro Skater 3 — Metacritic: 97  
+- Halo: Combat Evolved — Metacritic: 97  
+- Sonic the Hedgehog 3 — Metacritic: 84  
+- Super Smash Bros. Melee — Metacritic: 92  
+- Advance Wars 2: Black Hole Rising — Metacritic: 89  
+- Grand Theft Auto: Vice City — Metacritic: 95  
+- SSX Tricky — Metacritic: 92  
+- Chrono Trigger — Metacritic: 92  ⭐
+- Final Fantasy X — Metacritic: 92  
+
+## 🧠 Edutainment / Personal Classics
+
+- The Time Warp of Dr. Brain — Metacritic: 86  
+- RollerCoaster Tycoon Deluxe — Metacritic: 88  
+- Math Blaster: Episode 1 – In Search of Spot — Metacritic: 82  
+- Super Munchers — Metacritic: 78  
+- Zoombinis — Metacritic: 78  
+- Backyard Baseball 2001 — Metacritic: 85  
+- Turbo Math Facts — Metacritic: 82  
+- NFL Street — Metacritic: 81  
+- NBA Street — Metacritic: 89  
+- Coin Critters — Metacritic: 76  
+
+⭐ = Played later

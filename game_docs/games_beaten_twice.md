@@ -1,47 +1,46 @@
-GAMES PLAYED / BEATEN TWICE
+# 🎮 Games Played / Beaten Twice
 
+A record of games revisited in full or in part — whether through complete replays, New Game+ attempts, or selected chapter replays.
 
+---
 
-FULLY BEATEN TWICE - 
+## ✅ Fully Beaten Twice
 
-HALO: COMBAT EVOLVED
-HALO 2 
-POKÉMON BLUE
-HALO 3
-CALL OF DUTY: MODERN WARFARE 2
-DEUS EX: MANKIND DIVIDED
-DISHONORED 2
+- Halo: Combat Evolved  
+- Halo 2  
+- Pokémon Blue  
+- Halo 3  
+- Call of Duty: Modern Warfare 2  
+- Deus Ex: Mankind Divided  
+- Dishonored 2  
+- Elden Ring
+---
 
+## 🔁 Started New Game+
 
+- Mass Effect 2  
+- Deus Ex: Human Revolution  
+- Borderlands 2  
+- Transistor  
+- The Witcher 3: Wild Hunt  
+- DOOM (2016)  
+- Hyper Light Drifter  
+- Prey (2017)  
+- Horizon: Zero Dawn  
 
-STARTED NG+ - 
+---
 
-MASS EFFECT 2
-DEUS EX: HUMAN REVOLUTION
-BORDERLANDS 2 
-TRANSISTOR
-THE WITCHER 3: WILD HUNT
-DOOM
-HYPER LIGHT DRIFTER
-PREY
-HORIZON: ZERO DAWN 	
+## 🔄 Replayed Chapters After Completion
 
-
-PLAYED CHAPTERS AGAIN AFTER BEATING GAME - 
-
-GEARS OF WAR
-TOM CLANCY'S RAINBOW SIX: VEGAS
-CALL OF DUTY 4: MODERN WARFARE 
-PORTAL
-GEARS OF WAR 2
-CALL OF DUTY: BLACK OPS
-HOTLINE MIAMI
-HOTLINE MIAMI 2: WRONG NUMBER
-HITMAN
-HITMAN 2
-TITANFALL 2
-WOLFENSTIEN II: THE NEW COLOSSUS
-
-
-
-
+- Gears of War  
+- Tom Clancy’s Rainbow Six: Vegas  
+- Call of Duty 4: Modern Warfare  
+- Portal  
+- Gears of War 2  
+- Call of Duty: Black Ops  
+- Hotline Miami  
+- Hotline Miami 2: Wrong Number  
+- Hitman  
+- Hitman 2  
+- Titanfall 2  
+- Wolfenstein II: The New Colossus

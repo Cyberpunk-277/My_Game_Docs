@@ -1,205 +1,124 @@
-MONEY SPENT ON GAMES 2017
+# 💸 Money Spent on Games — 2017
 
-TOTAL = $1,236.66 ON $2,586 + WORTH OF ITEMS
+**Total Spent:** $1,236.66  
+**Total Value:** $2,586+ worth of items  
 
--SPENT $0 ON
+---
 
-	NINTENDO SWITCH CONSOLE - $300
-	$96 IN GIFT CARDS THROUGH SKYRIM AND OTHER GAMES
-	$250 IN PS4 TRADE IN
+## 🆓 Spent $0 On
 
--SPENT $0 ON
+- **Hardware / Credit**
+  - Nintendo Switch Console — $300 value  
+  - Nintendo Switch Pro Controller — $70 value  
+  - $96 in gift cards from Skyrim + other games  
+  - $250 in PS4 trade-in credit  
+  - Traded in Yakuza 0 & FIFA 17  
+  - Best Buy gift cards used on:
+    - Madden 18 — $60
+    - Mario + Rabbids: Kingdom Battle — $60
+    - Mario + Rabbids: Season Pass — $20
+    - NBA 2K18 — $60
+    - FIFA 18 — $51.92 (paid $8.08 difference)
 
-	NINTENDO SWITCH PRO CONTROLER - $70
-	TRADE IN YAKUZA 0 & FIFA 17
-	
--SPENT $151 ON 
+- **Games / Content**
+  - Sonic Mania — $20 (Xbox Live credit)
+  - The Elder Scrolls V: Skyrim Special Edition — $60
+  - The Stanley Parable — $3.74  
+  - Subsurface Circular — $4.79  
+  - A Normal Lost Phone — $1.49 (Gamestop credit on Steam card)
 
-	HORIZON: ZERO DAWN - $60                                          
-	THE LEGEND OF ZELDA: BREATH OF THE WILD	- $60				 
-	NIER: AUTOMATA - $60
-	YAKUZA 0 - $60
+---
 
--SPENT $11.99 ON
+## 🛍️ Major Purchases
 
- 	DEUS EX: MANKIND DIVIDED - A CRIMINAL PAST
+- **$151**
+  - Horizon: Zero Dawn — $60  
+  - The Legend of Zelda: Breath of the Wild — $60  
+  - NieR: Automata — $60  
+  - Yakuza 0 — $60 *(was traded in later)*
 
--SPENT $5 ON
+- **$90.14**
+  - Mass Effect Andromeda Deluxe — $70  
+  - South Park: The Fractured But Whole (Steelbook Gold) — $100
 
-	ROCKET LEAGUE KEYS - $5
+- **$74.17**
+  - Call of Duty: WWII — $60  
+  - Assassin’s Creed: Origins — $60  
+  - Dishonored: Death of the Outsider — $30
 
--SPENT $90.14 ON 
+- **$59.99**
+  - Xbox Live Gold — $60  
 
-	MASS EFFECT ANDROMEDA DELUXE - $70
-	SOUTH PARK: THE FRACTURED BUT WHOLE STEELBOOK GOLD EDITION - $100
+- **$59.99**
+  - DualShock 4 (Grey) — $39.99 (after $32 trade-in value)
 
--SPENT $46.14 ON 
-	
-	PREY - $60
-	PERSONA 5 - $60
-	NIER: AUTOMATA TRADE IN
+- **$40**
+  - PSN Plus  
+  - Wolfenstein II: The New Colossus (Digital Deluxe) — half of $80  
 
--SPENT $16.93 ON
+- **$350.99**
+  - Xbox One X — $500 (you paid this portion after accounting for savings)
 
-	THE LEGEND OF ZELDA BREATH OF THE WILD: EXPANSION PASS - $20
-	HAD $3.07 IN NINTENDO ESHOP CREDIT
+---
 
--SPENT $89.99 ON
+## 🎮 Other Games & Content
 
-	DESTINY 2 + EXPANSION PASS - $90
-	DIGITAL PRE-ORDER PRICE
+- **$46.14**
+  - Prey — $60  
+  - Persona 5 — $60 *(NieR: Automata traded in for credit)*
 
--SPENT $17.99 ON
+- **$33.46**
+  - Super Mario Odyssey  
 
-	PYRE - $20
-	DIGITAL PRE-ORDER PRICE
+- **$29.67**
+  - Kingdom Hearts HD 2.8 Final Chapter Prologue — $50
 
--SPENT $15.99 ON
+- **$22.49**
+  - Hellblade: Senua’s Sacrifice  
 
-	HORIZON ZERO DAWN: THE FROZEN WILDS - $20
-	DIGITAL PRE-ORDER PRICE
+- **$20**
+  - Witcher 3: Game of the Year Edition  
+  - Rocket League (Switch)  
+  - Rocket League Keys (x1 set)
 
--SPENT $0 ON
+- **$17.99**
+  - Pyre *(digital pre-order)*
 
-	SONIC MANIA - $20
-	HAD XBOX LIVE CREDIT
+- **$16.96**
+  - Cuphead  
 
--SPENT $10 ON
+- **$15.89**
+  - Uncharted: The Lost Legacy — $40
 
-	ROCKET LEAGUE KEYS - $10
+- **$15.99**
+  - Horizon Zero Dawn: The Frozen Wilds *(pre-order)*
 
--SPENT $4 ON
+- **$13.39**
+  - What Remains of Edith Finch  
 
-	THE LAST OF US: LEFT BEHIND - $20
+- **$11.99 (x2)**
+  - Deus Ex: Mankind Divided – A Criminal Past  
+  - Rocket League (PC)
 
--SPENT $29.67
+- **$10**
+  - Rocket League Keys  
 
-	KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE - $50
+- **$8.08**
+  - FIFA 18 *(covered rest with Best Buy GC)*
 
--SPENT $9.89 ON
+- **$5**
+  - Rocket League Keys  
 
-	HOLLOW KNIGHT - $15
+- **$4**
+  - The Last of Us: Left Behind
 
--SPENT $11.99 ON
+- **$1.49**
+  - A Normal Lost Phone *(already included above)*
 
-	ROCKET LEAGUE PC - $20
+---
 
--SPENT $16.96 ON
+## 📌 Notes
 
-	CUPHEAD - $20
-
--SPENT $0 ON
-
-	MADDEN 18 - $60
-	BEST BUT GIFT CARD 									
-
--SPENT $5 ON
-
-	ROCKET LEAGUE KEYS - $5
-
--SPENT $0
-
-	MARIO + RABBIDS: KINGDOM BATTLE - $60
-	BEST BUY GIFT CARD
-
--SPENT $39.99
-
-	DUALSHOCK 4 - GREY
-	TRADED IN OLD DUALSHOCK FOR $32
-
--SPENT $0
-
-	MARIO + RABBIDS: KINGDOM BATTLE: SEASON PASS - $20
-	BEST BUY GIFT CARD 
-
--SPENT $0
-
-	NBA 2K18 - $60
-	BEST BUY GIFT CARD
-
--SPENT $8.08
-
-	FIFA 18	- $60
-	BEST BUY GIFT CARD
-
--SPENT $59.99
-
-	XBOX LIVE GOLD
-
--SPENT $20
-
-	WITCHER 3: WILD HUNT, THE - GAME OF THE YEAR EDITION
-
--SPENT $33.46
-
-	SUPER MARIO ODYSSEY
-
--SPENT $40
-
-	PSN PLUS - $60
-
--SPENT $350.99
-
-	XBOX ONE X - $500
-
--SPENT $15.89
-
-	UNCHARTED: THE LOST LEGACY - $40
-
--SPENT $20 ON
-
-	ROCKET LEAGUE SWITCH - $20
-
--SPENT $40 ON
-
-	WOLFENSTEIN II: THE NEW COLOSSUS DIGITAL DELUXE EDITION - $80
-
--SPENT $13.39 ON
-
-	WHAT REMAINS OF EDITH FINCH - $20
-
--SPENT $0 ON
-
-	THE ELDER SCROLLS V: SKYRIM - SPECIAL EDITION - $60
-
--SPENT $74.17 ON
-
-	CALL OF DUTY: WWII - $60					
-	ASSASSIN'S CREED: ORIGINS - $60						
-	DISHONORED: DEATH OF THE OUTSIDER - $30
-
--SPENT $22.49 ON
-
-	HELLBLADE: SENUA'S SACRIFICE
-
--SPENT $0 ON
-
-	THE STANLEY PARABLE - $3.74
-	SUBSURFACE CIRCULAR - $4.79
-	A NORMAL LOST PHONE - $1.49
-	GAMESTOP CREDIT USED ON STEAM CARD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Some entries were subsidized by gift cards, trades, or digital credit.  
+- Xbox One X was partially offset, final paid amount listed.  
+- Several digital purchases included launch/pre-order discounts.  

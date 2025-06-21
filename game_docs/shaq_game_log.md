@@ -1,46 +1,60 @@
-------------------------------------------------------2014--------------------------------
+# Game Completion Log (2014–2019)
 
-INFAMOUS SECOND SECOND                                      Mar 21  - 	FINISHED
-MADDEN NFL 15                                               Aug 26  -
-DESTINY                                                     Sep 09  - 	FINISHED
-FIFA 14														Sep 23  -
-ASSASSIN'S CREED UNITY										Nov 13  - 	FINISHED
+---
 
-------------------------------------------------------2015--------------------------------
+## 2014
 
-THE WITCHER 3: WILD HUNT									MAY 19  - 	FINISHED 
-METAL GEAR SOLID V: THE PHANTOM PAIN						SEP 1   - 	UNFINISHED
-NBA 2K16													SEP 25  - 	
-FALLOUT 4													NOV 10  - 	UNFINISHED
-CALL OF DUTY: BLACK OPS 3		                            NOV 4   - 	FINISHED
+* **inFAMOUS Second Son** — Mar 21 — ✅ Finished
+* **Madden NFL 15** — Aug 26
+* **Destiny** — Sep 9 — ✅ Finished
+* **FIFA 14** — Sep 23
+* **Assassin's Creed Unity** — Nov 13 — ✅ Finished
 
-------------------------------------------------------2016---------------------------------
+---
 
-ROCKET LEAGUE 												NA		-
-THE WITNESS 												JAN 26  - 	UNFINISHED
-TOM CLANCY'S THE DIVISION									MAR 8   - 	FINISHED
-UNCHARTED 4: A THIEF'S END      							MAY 10  - 	FINISHED
-DEUS EX: MANKIND DIVIDED									AUG 23  - 	UNFINISHED
-NBA 2K17													SEP 20  - 			  
-TITANFALL 2													OCT 28  - 	UNFINISHED
-WATCH_DOGS 2												NOV 15  - 	FINISHED
-THE LAST OF US REMASTERED 									NA	    -	UNFINISHED
+## 2015
 
-------------------------------------------------------2017---------------------------------
+* **The Witcher 3: Wild Hunt** — May 19 — ✅ Finished
+* **Metal Gear Solid V: The Phantom Pain** — Sep 1 — ❌ Unfinished
+* **NBA 2K16** — Sep 25
+* **Fallout 4** — Nov 10 — ❌ Unfinished
+* **Call of Duty: Black Ops III** — Nov 4 — ✅ Finished
 
-HORIZON: ZERO DAWN                                          FEB 28 - FINISHED
-DESTINY 2 								 					SEP 6 - UNFINISHED
+---
 
-------------------------------------------------------2018---------------------------------
+## 2016
 
-RED DEAD REDEMPTION 2 										OCT 26 - UNFINISHED
-MARVEL’S SPIDER-MAN 										SEP 7 - FINISHED
-DETROIT: BECOME HUMAN 										MAY 25 - FINISHED
-BLOODBORNE													NA - UNFINISHED
+* **Rocket League** — N/A
+* **The Witness** — Jan 26 — ❌ Unfinished
+* **Tom Clancy's The Division** — Mar 8 — ✅ Finished
+* **Uncharted 4: A Thief's End** — May 10 — ✅ Finished
+* **Deus Ex: Mankind Divided** — Aug 23 — ❌ Unfinished
+* **NBA 2K17** — Sep 20
+* **Titanfall 2** — Oct 28 — ❌ Unfinished
+* **Watch\_Dogs 2** — Nov 15 — ✅ Finished
+* **The Last of Us Remastered** — N/A — ❌ Unfinished
 
-------------------------------------------------------2019---------------------------------
+---
 
-TOM CLANCY'S THE DIVISION 2									MAR 12 - FINISHED
-WOLFENSTEIN: YOUNGBLOOD										JUL 26 - FINISHED
-APEX LEGENDS												FEB 4 - NA
-DRAGON QUEST BUILDERS 2 									JUL 12 - UNFINISHED
+## 2017
+
+* **Horizon: Zero Dawn** — Feb 28 — ✅ Finished
+* **Destiny 2** — Sep 6 — ❌ Unfinished
+
+---
+
+## 2018
+
+* **Red Dead Redemption 2** — Oct 26 — ❌ Unfinished
+* **Marvel’s Spider-Man** — Sep 7 — ✅ Finished
+* **Detroit: Become Human** — May 25 — ✅ Finished
+* **Bloodborne** — N/A — ❌ Unfinished
+
+---
+
+## 2019
+
+* **Tom Clancy's The Division 2** — Mar 12 — ✅ Finished
+* **Wolfenstein: Youngblood** — Jul 26 — ✅ Finished
+* **Apex Legends** — Feb 4 — N/A
+* **Dragon Quest Builders 2** — Jul 12 — ❌ Unfinished
