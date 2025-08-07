@@ -454,7 +454,7 @@ MAY 15  | DOOM: The Dark Ages                 | Xbox       | Game Pass 🎮
 JUN 05  | Mario Kart World                    | Switch 2   | —  
 JUN 26  | Death Stranding 2: On the Beach     | PS5        | Purchased 💵 💿  
 JUL 11  | Tony Hawk's Pro Skater 3 + 4        | Xbox       | Game Pass 🎮  
-JUL 17  | Donkey Kong Bananza                 | Switch 2   | —  
+JUL 17  | Donkey Kong Bananza                 | Switch 2   | Purchased 💵 💿   
 AUG 08  | Mafia: The Old Country              | PS5        | —  
 AUG 22  | Dying Light: The Beast              | PS5        | —  
 AUG 26  | Gears of War: Reloaded              | PS5        | —  
@@ -478,8 +478,6 @@ MAY 26  | Grand Theft Auto VI                 | PS5        | —
 ???     | Tom Clancy's Splinter Cell Remake   | Xbox       | —  
 ???     | Fable                               | Xbox       | Game Pass 🎮  
 ???     | Contraband                          | Xbox       | Game Pass 🎮  
-???     | Perfect Dark                        | Xbox       | Game Pass 🎮  
-???     | Everwild                            | Xbox       | Game Pass 🎮  
 ???     | Beyond Good and Evil 2              | Xbox       | —  
 ???     | Crysis 4                            | Xbox       | —  
 ???     | Vampire: The Masquerade – Bloodlines 2 | Xbox   | —  
