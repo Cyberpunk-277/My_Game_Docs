@@ -462,39 +462,37 @@ AUG 29  | Lost Soul Aside                     | PS5        | —
 SEP 12  | Borderlands 4                       | PS5        | —  
 SEP 19  | Dying Light: The Beast              | PS5        | —  
 OCT 02  | Ghost of Yotei                      | PS5        | —  
+OCT 21  | Vampire:The Masquerade Bloodlines 2 | Xbox       | —  
 OCT 29  | The Outer Worlds 2                  | Xbox       | Game Pass 🎮  
-???     | Crimson Desert                      | PS5        | —  
 ???     | Dispatch                            | PS5        | —  
 ???     | Metroid Prime 4: Beyond             | Switch 2   | —  
 ???     | Hollow Knight: Silksong             | Xbox       | Game Pass 🎮  
 
 ------------------------------------------------------2026---------------------------------------------------------------------
 
-FEB 27  | Resident Evil Requiem               | PS5        | —  
-MAY 26  | Grand Theft Auto VI                 | PS5        | —  
-???     | Marvel’s Wolverine                  | PS5        | —  
-???     | Judas                               | PS5        | —  
-???     | Marathon                            | PS5        | —  
-???     | Tom Clancy's Splinter Cell Remake   | Xbox       | —  
-???     | Fable                               | Xbox       | Game Pass 🎮  
-???     | Contraband                          | Xbox       | Game Pass 🎮  
-???     | Beyond Good and Evil 2              | Xbox       | —  
-???     | Crysis 4                            | Xbox       | —  
-???     | Vampire: The Masquerade – Bloodlines 2 | Xbox   | —  
-???     | Replaced                            | Xbox       | Game Pass 🎮  
-???     | The Last Night                      | Xbox       | —  
-???     | Little Devil Inside                 | PS5        | —  
-???     | EA Iron Man Game                    | PS5        | —  
-???     | Star Wars: Eclipse                  | PS5        | —  
-???     | Marvel 1943: Rise of Hydra          | PS5        | —  
-???     | Pragmata                            | PS5        | —  
-???     | 007: First Light                    | PS5        | —  
-???     | Dragon Quest XII: The Flames of Fate | PS5      | —  
+FEB 27  | Resident Evil Requiem                | PS5        | —  
+MAY 26  | Grand Theft Auto VI                  | PS5        | —  
+???     | Marvel’s Wolverine                   | PS5        | —  
+???     | Judas                                | PS5        | —  
+???     | Crimson Desert                       | PS5        | —  
+???     | Marathon                             | PS5        | —  
+???     | Tom Clancy's Splinter Cell Remake    | Xbox       | —  
+???     | Fable                                | Xbox       | Game Pass 🎮  
+???     | Replaced                             | Xbox       | Game Pass 🎮  
+???     | Little Devil Inside                  | PS5        | —  
+???     | Marvel 1943: Rise of Hydra           | PS5        | —  
+???     | Pragmata                             | PS5        | —  
+???     | 007: First Light                     | PS5        | —  
+???     | Dragon Quest XII: The Flames of Fate | PS5        | —  
 
 ------------------------------------------------------2027---------------------------------------------------------------------
 
 ???     | The Witcher 4                        | PS5        | —  
 ???     | Assassin's Creed: Project Hexe       | PS5        | —  
+???     | EA Iron Man Game                     | PS5        | —  
+???     | Star Wars: Eclipse                   | PS5        | —  
+???     | The Last Night                       | Xbox       | —  
+???     | Beyond Good and Evil 2               | Xbox       | —  
 
 ------------------------------------------------------2028---------------------------------------------------------------------
 
