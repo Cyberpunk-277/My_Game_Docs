@@ -455,9 +455,9 @@ JUN 05  | Mario Kart World                    | Switch 2   | —
 JUN 26  | Death Stranding 2: On the Beach     | PS5        | Purchased 💵 💿  
 JUL 11  | Tony Hawk's Pro Skater 3 + 4        | Xbox       | Game Pass 🎮  
 JUL 17  | Donkey Kong Bananza                 | Switch 2   | Purchased 💵 💿   
-AUG 08  | Mafia: The Old Country              | PS5        | —  
+AUG 08  | Mafia: The Old Country              | PS5        | Purchased 💵
 AUG 26  | Gears of War: Reloaded              | PS5        | —  
-AUG 28  | Metal Gear Solid Δ: Snake Eater     | PS5        | —  
+AUG 28  | Metal Gear Solid Δ: Snake Eater     | PS5        | Purchased 💵
 AUG 29  | Lost Soul Aside                     | PS5        | —  
 SEP 12  | Borderlands 4                       | PS5        | —  
 SEP 19  | Dying Light: The Beast              | PS5        | —  
