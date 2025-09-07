@@ -456,9 +456,11 @@ JUN 26  | Death Stranding 2: On the Beach     | PS5        | Purchased 💵 💿
 JUL 11  | Tony Hawk's Pro Skater 3 + 4        | Xbox       | Game Pass 🎮  
 JUL 17  | Donkey Kong Bananza                 | Switch 2   | Purchased 💵 💿   
 AUG 08  | Mafia: The Old Country              | PS5        | Purchased 💵
+AUG 19  | Sword Of The Sea                    | PS5        | PS+
 AUG 26  | Gears of War: Reloaded              | PS5        | —  
 AUG 28  | Metal Gear Solid Δ: Snake Eater     | PS5        | Purchased 💵
 AUG 29  | Lost Soul Aside                     | PS5        | —  
+SEP 4   | Hollow Knight: Silksong             | Xbox       | Game Pass 🎮
 SEP 12  | Borderlands 4                       | PS5        | —  
 SEP 19  | Dying Light: The Beast              | PS5        | —  
 OCT 02  | Ghost of Yotei                      | PS5        | —  
@@ -466,11 +468,11 @@ OCT 21  | Vampire:The Masquerade Bloodlines 2 | Xbox       | —
 OCT 29  | The Outer Worlds 2                  | Xbox       | Game Pass 🎮  
 ???     | Dispatch                            | PS5        | —  
 ???     | Metroid Prime 4: Beyond             | Switch 2   | —  
-???     | Hollow Knight: Silksong             | Xbox       | Game Pass 🎮  
 
 ------------------------------------------------------2026---------------------------------------------------------------------
 
 FEB 27  | Resident Evil Requiem                | PS5        | —  
+MAR 27  | 007: First Light                     | PS5        | —  
 MAY 26  | Grand Theft Auto VI                  | PS5        | —  
 ???     | Marvel’s Wolverine                   | PS5        | —  
 ???     | Judas                                | PS5        | —  
@@ -482,7 +484,6 @@ MAY 26  | Grand Theft Auto VI                  | PS5        | —
 ???     | Little Devil Inside                  | PS5        | —  
 ???     | Marvel 1943: Rise of Hydra           | PS5        | —  
 ???     | Pragmata                             | PS5        | —  
-???     | 007: First Light                     | PS5        | —  
 ???     | Dragon Quest XII: The Flames of Fate | PS5        | —  
 
 ------------------------------------------------------2027---------------------------------------------------------------------
