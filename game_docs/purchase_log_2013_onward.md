@@ -479,7 +479,7 @@ APR 14  | Replaced                             | Xbox       | Game Pass 🎮
 APR 17  | Pragmata                             | PS5        | —  
 APR 30  | Saros                                | PS5        | —  
 MAY 27  | 007: First Light                     | PS5        | —  
-JUL 09  | Assassin's Creed Black Flag RESYNCED | PS5        | —
+JUL 09  | Assassin's Creed Black Flag RESYNCED | PS5        | — 
 SEP 02  | The Blood of Dawnwalker              | PS5        | —  
 SEP 15  | Marvel's Wolverine                   | PS5        | —  
 SEP 22  | Dune: Awakening                      | PS5        | Game Pass 🎮  
