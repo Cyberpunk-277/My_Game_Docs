@@ -1,100 +1,104 @@
-THE WITCHER 3: WILD HUNT - 100
-MASS EFFECT 2 - 99.03
-HALO 2 - 98.06
-UNCHARTED 2: AMONG THIEVES - 98.06
-ELDEN RING - 98.06
-THE LAST OF US PART 2 - 98.06
-BALDUR'S GATE 3 - 98.06
-HALF-LIFE: ALYX - 97.57
-BATMAN: ARKHAM CITY - 97.57
-GTA V - 97.09
-THE LAST OF US - 97.09
-RED DEAD REDEMPTION 2 - 97.09
-FINAL FANTASY VII REBIRTH - 97.09
-HALO: COMBAT EVOLVED - 97.09
-MASS EFFECT 3 - 97.09
-SUPER MARIO GALAXY - 96.60
-GOD OF WAR: RAGNAROK - 96.60
-ALAN WAKE II - 96.60
-CALL OF DUTY 4: MODERN WARFARE - 96.12
-GEARS OF WAR - 96.12
-GTA IV - 96.12
-THE ORANGE BOX - 96.12
-LITTLEBIGPLANET - 96.12
-GRAND THEFT AUTO: SAN ANDREAS - 96.12
-THE ELDER SCROLLS V: SKYRIM - 96.12
-HALO 3 - 95.63
-DEUS EX: MANKIND DIVIDED - 95.63
-RED DEAD REDEMPTION - 95.63
-METAL GEAR SOLID V: THE PHANTOM PAIN - 95.63
-CALL OF DUTY: MODERN WARFARE 2 - 95.15
-RESIDENT EVIL 2 - 95.15
-PERSONA 5 ROYAL - 95.15
-RESIDENT EVIL 4 - 95.15
-CYBERPUNK 2077 - 95.15
-TONY HAWK'S PRO SKATER 3 - 95.15
-SUPER MARIO ODYSSEY - 94.66
-GRAND THEFT AUTO: VICE CITY - 94.66
-GEARS OF WAR 2 - 94.66
-BLOODBORNE - 94.17
-THE LEGEND OF ZELDA: BREATH OF THE WILD - 93.20
-BIOSHOCK - 93.20
-BIOSHOCK INFINITE - 93.20
-DEUS EX: HUMAN REVOLUTION - 92.72
-SUPER SMASH BROS. MELEE - 92.72
-INSIDE - 92.72
-BRAID - 92.72
-IT TAKES TWO - 92.72
-HORIZON: ZERO DAWN - 92.72
-HORIZON FORBIDDEN WEST - 92.72
-UNCHARTED 3: DRAKE'S DECEPTION - 92.72
-ASSASSIN'S CREED II - 92.23
-MARVEL'S SPIDER-MAN 2 - 92.23
-THE LEGEND OF ZELDA: TEARS OF THE KINGDOM - 92.23
-THE LEGEND OF ZELDA: TWILIGHT PRINCESS - 91.75
-MVP BASEBALL 2005 - 91.75
-KILLZONE 2 - 91.75
-NEON WHITE - 91.75
-METAPHOR: REFANTAZIO - 91.75
-DEATHLOOP - 91.75
-PSYCHONAUTS 2 - 91.75
-BORDERLANDS 2 - 91.26
-CHRONO TRIGGER - 91.26
-JOURNEY - 90.78
-MONSTER HUNTER WORLD - 90.78
-OVERWATCH - 90.78
-APEX LEGENDS - 90.78
-SSX TRICKY - 90.78
-UNCHARTED 4: A THIEF'S END - 90.78
-ASTRO BOT - 90.78
-BLACK MYTH: WUKONG - 90.78
-DRAGON'S DOGMA 2 - 90.29
-LIKE A DRAGON: INFINITE WEALTH - 90.29
-DISHONORED 2 - 89.81
-CIVILIZATION V - 89.81
-GRAND THEFT AUTO: LIBERTY CITY STORIES - 89.81
-CALL OF DUTY 2 - 89.81
-POKÉMON BLUE - 89.81
-DISHONORED (Original) - 89.81
-UNDERTALE - 89.81
-MVP BASEBALL 2004 - 89.81
-LONE ECHO - 89.81
-INDIANA JONES AND THE GREAT CIRCLE - 89.81
-TITANFALL 2 - 89.32
-XCOM: ENEMY UNKNOWN - 89.32
-FIFA 10 - 89.32
-STELLAR BLADE - 89.32
-METROID DREAD - 89.32
-NIER: AUTOMATA - 88.83
-ADVANCE WARS 2: BLACK HOLE RISING - 88.83
-THE OUTER WORLDS - 88.83
-NBA 2K9 - 88.35
-TITANFALL - 88.35
-FAR CRY 3 - 88.35
-SONIC THE HEDGEHOG 3 - 88.35
-L.A. NOIRE - 87.86
-CHILD OF LIGHT - 87.38
-THE STANLEY PARABLE - 87.38
-PREY (2017) - 87.38
-NBA Street - 86.41
-HELLDIVERS II - 86.41
+# 🏆 Game of the Generation
+
+| Rank | Game | Score |
+|------|------|-------|
+| 1 | The Witcher 3: Wild Hunt | 100 |
+| 2 | Mass Effect 2 | 99.03 |
+| 3 | Halo 2 | 98.06 |
+| 3 | Uncharted 2: Among Thieves | 98.06 |
+| 3 | Elden Ring | 98.06 |
+| 3 | The Last of Us Part II | 98.06 |
+| 3 | Baldur’s Gate 3 | 98.06 |
+| 8 | Half-Life: Alyx | 97.57 |
+| 8 | Batman: Arkham City | 97.57 |
+| 10 | GTA V | 97.09 |
+| 10 | The Last of Us | 97.09 |
+| 10 | Red Dead Redemption 2 | 97.09 |
+| 10 | Final Fantasy VII Rebirth | 97.09 |
+| 10 | Halo: Combat Evolved | 97.09 |
+| 10 | Mass Effect 3 | 97.09 |
+| 16 | Super Mario Galaxy | 96.60 |
+| 16 | God of War: Ragnarök | 96.60 |
+| 16 | Alan Wake II | 96.60 |
+| 19 | Call of Duty 4: Modern Warfare | 96.12 |
+| 19 | Gears of War | 96.12 |
+| 19 | GTA IV | 96.12 |
+| 19 | The Orange Box | 96.12 |
+| 19 | LittleBigPlanet | 96.12 |
+| 19 | Grand Theft Auto: San Andreas | 96.12 |
+| 19 | The Elder Scrolls V: Skyrim | 96.12 |
+| 26 | Halo 3 | 95.63 |
+| 26 | Deus Ex: Mankind Divided | 95.63 |
+| 26 | Red Dead Redemption | 95.63 |
+| 26 | Metal Gear Solid V: The Phantom Pain | 95.63 |
+| 30 | Call of Duty: Modern Warfare 2 | 95.15 |
+| 30 | Resident Evil 2 | 95.15 |
+| 30 | Persona 5 Royal | 95.15 |
+| 30 | Resident Evil 4 | 95.15 |
+| 30 | Cyberpunk 2077 | 95.15 |
+| 30 | Tony Hawk’s Pro Skater 3 | 95.15 |
+| 36 | Super Mario Odyssey | 94.66 |
+| 36 | Grand Theft Auto: Vice City | 94.66 |
+| 36 | Gears of War 2 | 94.66 |
+| 39 | Bloodborne | 94.17 |
+| 40 | The Legend of Zelda: Breath of the Wild | 93.20 |
+| 40 | BioShock | 93.20 |
+| 40 | BioShock Infinite | 93.20 |
+| 43 | Deus Ex: Human Revolution | 92.72 |
+| 43 | Super Smash Bros. Melee | 92.72 |
+| 43 | Inside | 92.72 |
+| 43 | Braid | 92.72 |
+| 43 | It Takes Two | 92.72 |
+| 43 | Horizon: Zero Dawn | 92.72 |
+| 43 | Horizon Forbidden West | 92.72 |
+| 43 | Uncharted 3: Drake’s Deception | 92.72 |
+| 51 | Assassin’s Creed II | 92.23 |
+| 51 | Marvel’s Spider-Man 2 | 92.23 |
+| 51 | The Legend of Zelda: Tears of the Kingdom | 92.23 |
+| 54 | The Legend of Zelda: Twilight Princess | 91.75 |
+| 54 | MVP Baseball 2005 | 91.75 |
+| 54 | Killzone 2 | 91.75 |
+| 54 | Neon White | 91.75 |
+| 54 | Metaphor: ReFantazio | 91.75 |
+| 54 | Deathloop | 91.75 |
+| 54 | Psychonauts 2 | 91.75 |
+| 61 | Borderlands 2 | 91.26 |
+| 61 | Chrono Trigger | 91.26 |
+| 63 | Journey | 90.78 |
+| 63 | Monster Hunter World | 90.78 |
+| 63 | Overwatch | 90.78 |
+| 63 | Apex Legends | 90.78 |
+| 63 | SSX Tricky | 90.78 |
+| 63 | Uncharted 4: A Thief’s End | 90.78 |
+| 63 | Astro Bot | 90.78 |
+| 63 | Black Myth: Wukong | 90.78 |
+| 71 | Dragon’s Dogma 2 | 90.29 |
+| 71 | Like a Dragon: Infinite Wealth | 90.29 |
+| 73 | Dishonored 2 | 89.81 |
+| 73 | Civilization V | 89.81 |
+| 73 | Grand Theft Auto: Liberty City Stories | 89.81 |
+| 73 | Call of Duty 2 | 89.81 |
+| 73 | Pokémon Blue | 89.81 |
+| 73 | Dishonored | 89.81 |
+| 73 | Undertale | 89.81 |
+| 73 | MVP Baseball 2004 | 89.81 |
+| 73 | Lone Echo | 89.81 |
+| 73 | Indiana Jones and the Great Circle | 89.81 |
+| 83 | Titanfall 2 | 89.32 |
+| 83 | XCOM: Enemy Unknown | 89.32 |
+| 83 | FIFA 10 | 89.32 |
+| 83 | Stellar Blade | 89.32 |
+| 83 | Metroid Dread | 89.32 |
+| 88 | NieR: Automata | 88.83 |
+| 88 | Advance Wars 2: Black Hole Rising | 88.83 |
+| 88 | The Outer Worlds | 88.83 |
+| 91 | NBA 2K9 | 88.35 |
+| 91 | Titanfall | 88.35 |
+| 91 | Far Cry 3 | 88.35 |
+| 91 | Sonic the Hedgehog 3 | 88.35 |
+| 95 | L.A. Noire | 87.86 |
+| 96 | Child of Light | 87.38 |
+| 96 | The Stanley Parable | 87.38 |
+| 96 | Prey (2017) | 87.38 |
+| 99 | NBA Street | 86.41 |
+| 99 | Helldivers II | 86.41 |
