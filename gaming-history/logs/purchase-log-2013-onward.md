@@ -471,6 +471,7 @@ DEC 04  | Metroid Prime 4: Beyond             | Switch 2   | —
 
 ------------------------------------------------------2026---------------------------------------------------------------------
 
+FEB 06  | Nioh 3                               | PS5        | —  
 FEB 27  | Resident Evil Requiem                | PS5        | —  
 MAR 05  | Marathon                             | PS5        | —  
 MAR 05  | Pokémon Pokopia                      | Switch 2   | —  
@@ -478,8 +479,14 @@ MAR 19  | Crimson Desert                       | PS5        | —
 APR 14  | Replaced                             | Xbox       | Game Pass 🎮  
 APR 17  | Pragmata                             | PS5        | —  
 APR 30  | Saros                                | PS5        | —  
+MAY 19  | Forza Horizon 6                      | Xbox / PC  | Game Pass 🎮  
+MAY 22  | LEGO Batman: Legacy of the Dark Knight | PS5 / Xbox / PC | —  
 MAY 27  | 007: First Light                     | PS5        | —  
-JUL 09  | Assassin's Creed Black Flag RESYNCED | PS5        | — 
+JUL 09  | Assassin's Creed Black Flag Resynced | PS5        | —  
+JUL 28  | Halo: Campaign Evolved               | Xbox / PS5 / PC | —  
+AUG 04  | Beast of Reincarnation               | PS5 / Xbox / PC | —  
+AUG 06  | Marvel Tōkon: Fighting Souls         | PS5 / PC   | —  
+AUG 27  | Resonance: A Plague Tale Legacy      | —          | —  
 SEP 02  | The Blood of Dawnwalker              | PS5        | —  
 SEP 15  | Marvel's Wolverine                   | PS5        | —  
 SEP 22  | Dune: Awakening                      | PS5        | Game Pass 🎮  
@@ -487,8 +494,8 @@ SEP 24  | Control Resonant                     | PS5        | —
 SEP 25  | Onimusha: Way of the Sword           | PS5        | —  
 OCT 01  | Rayman Legends: Retold               | PS5        | —  
 OCT 02  | Ace Combat 8: Wings of Theve         | PS5        | —  
-OCT 06  | Star Wars: Galactic Racer            | PS5        | —
-OCT 23  | Call of Duty: Modern Warfare 4       | PS5        | —
+OCT 06  | Star Wars: Galactic Racer            | PS5        | —  
+OCT 23  | Call of Duty: Modern Warfare 4       | PS5        | —  
 OCT 29  | Phantom Blade Zero                   | PS5        | —  
 NOV 19  | Grand Theft Auto VI                  | PS5        | —  
 
