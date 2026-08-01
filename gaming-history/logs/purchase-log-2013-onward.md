@@ -486,40 +486,59 @@ JUL 09  | Assassin's Creed Black Flag Resynced | PS5        | Purchased 💵
 JUL 28  | Halo: Campaign Evolved               | Xbox       | Game Pass 🎮 
 AUG 04  | Beast of Reincarnation               | Xbox       | Game Pass 🎮  
 AUG 06  | Marvel Tōkon: Fighting Souls         | PS5        | Purchased 💵  
-AUG 27  | Resonance: A Plague Tale Legacy      | —          | —  
+AUG 27  | Resonance: A Plague Tale Legacy      | PS5 / Xbox / PC | —  
+AUG 27  | Star Wars Zero Company               | PS5 / Xbox / PC | —  
 SEP 02  | The Blood of Dawnwalker              | PS5        | —  
 SEP 15  | Marvel's Wolverine                   | PS5        | —  
 SEP 22  | Dune: Awakening                      | PS5        | Game Pass 🎮  
 SEP 24  | Control Resonant                     | PS5        | Purchased 💵  
+SEP 24  | Silent Hill: Townfall                | PS5 / PC   | —  
 SEP 25  | Onimusha: Way of the Sword           | PS5        | —  
 OCT 01  | Rayman Legends: Retold               | PS5        | —  
 OCT 02  | Ace Combat 8: Wings of Theve         | PS5        | —  
 OCT 06  | Star Wars: Galactic Racer            | PS5        | —  
+OCT 06  | Gears of War: E-Day                  | Xbox / PC  | —  
 OCT 23  | Call of Duty: Modern Warfare 4       | PS5        | —  
 OCT 29  | Phantom Blade Zero                   | PS5        | —  
 NOV 19  | Grand Theft Auto VI                  | PS5        | Purchased 💵  
+DEC 03  | Dragon Quest Monsters: The Withered World | PS5 / Switch 2 | —  
 
 ------------------------------------------------------2027---------------------------------------------------------------------
 
-???     | Fable                                | Xbox       | Game Pass 🎮  
-???     | The Witcher 4                        | PS5        | —  
+JAN 15  | Stranger Than Heaven                 | PS5 / Xbox / PC | —  
+FEB 12  | Tomb Raider: Legacy of Atlantis      | PS5 / Xbox / PC | —  
+FEB 16  | God of War Laufey                    | PS5        | —  
+FEB 18  | Persona 4 Revival                    | PS5 / Xbox / PC | —  
+FEB 23  | Fable                                | Xbox / PS5 / PC | Game Pass 🎮  
+FEB     | Metro 2039                           | PS5 / Xbox / PC | —  
+SPRING  | Final Fantasy VII Revelation         | PS5 / Xbox / PC / Switch 2 | —  
+SPRING  | Exodus                               | PS5 / Xbox / PC | —  
+???     | Resident Evil Veronica               | PS5 / Xbox / PC | —  
+???     | Clockwork Revolution                 | Xbox / PC  | —  
+???     | State of Decay 3                     | Xbox / PC  | —  
+???     | The Witcher 4                        | PS5 / Xbox / PC | —  
 ???     | Assassin's Creed: Project Hexe       | PS5        | —  
-???     | Judas                                | PS5        | —  
+???     | Judas                                | PS5 / PC   | —  
 ???     | Marvel 1943: Rise of Hydra           | PS5        | —  
-???     | EA Iron Man Game                     | PS5        | —  
 ???     | Star Wars: Eclipse                   | PS5        | —  
 ???     | Little Devil Inside                  | PS5        | —  
-???     | The Last Night                       | Xbox       | —  
 ???     | Beyond Good and Evil 2               | Xbox       | —  
 ???     | Tom Clancy's Splinter Cell Remake    | Xbox       | Game Pass 🎮  
+???     | Xenoblade Genesis                    | Switch 2   | —  
+???     | Spyro: A Realm Beyond                | Multi     | —  
+???     | Crazy Taxi: World Tour               | Multi     | —  
+???     | Senua                                | Multi     | —  
+???     | Until Dawn 2                         | PS5        | —  
 
 ------------------------------------------------------2028---------------------------------------------------------------------
 
+???     | The Elder Scrolls VI                 | Xbox / PC  | Xbox Game Pass  
+???     | Tomb Raider: Catalyst                | Multi     | —  
+???     | Ark 2                                | Multi     | —  
 ???     | In the Valley of Gods                | Xbox       | —  
 ???     | Dragon Quest XII: Beyond Dreams      | PS5        | —  
+???     | Kingdom Hearts IV                    | Multi     | —  
 
-------------------------------------------------------2029---------------------------------------------------------------------
+------------------------------------------------------2029+---------------------------------------------------------------------
 
-???     | The Elder Scrolls VI                 | Xbox       | Xbox Game Pass
-
-
+???     | (Further TBA titles to be added as announced)
