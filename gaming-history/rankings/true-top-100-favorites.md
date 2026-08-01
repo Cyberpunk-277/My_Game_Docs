@@ -28,26 +28,26 @@ Sports titles excluded. Rankings reflect overall personal preference, not pure p
 | 17 | Uncharted 2: Among Thieves | — |
 | 18 | Grand Theft Auto V | — |
 | 19 | Halo 2 | — |
-| 20 | Mass Effect 3 | — |
-| 21 | Bloodborne | — |
-| 22 | Halo: Combat Evolved | — |
-| 23 | Deus Ex: Mankind Divided | 54h |
-| 24 | Red Dead Redemption | — |
-| 25 | Resident Evil 4 (Remake) | 47h |
-| 26 | Metaphor: ReFantazio | 104h |
-| 27 | Like a Dragon: Infinite Wealth | 112h |
-| 28 | Monster Hunter: World | 132h |
-| 29 | Horizon Zero Dawn | 70h |
-| 30 | Ghost of Tsushima | 140h+ |
-| 31 | Fallout 4 | 198h |
-| 32 | Starfield | 193h |
-| 33 | Assassin's Creed Valhalla | 270h+ |
-| 34 | Kingdom Come: Deliverance II | 131h |
-| 35 | Death Stranding 2: On the Beach | 61h |
-| 36 | Black Myth: Wukong | 61h |
-| 37 | Dragon's Dogma 2 | 74h |
-| 38 | Apex Legends | 1100h+ |
-| 39 | Overwatch | 310h+ |
+| 20 | Apex Legends | 1100h+ |
+| 21 | Overwatch | 310h+ |
+| 22 | Mass Effect 3 | — |
+| 23 | Bloodborne | — |
+| 24 | Halo: Combat Evolved | — |
+| 25 | Deus Ex: Mankind Divided | 54h |
+| 26 | Red Dead Redemption | — |
+| 27 | Resident Evil 4 (Remake) | 47h |
+| 28 | Metaphor: ReFantazio | 104h |
+| 29 | Like a Dragon: Infinite Wealth | 112h |
+| 30 | Monster Hunter: World | 132h |
+| 31 | Horizon Zero Dawn | 70h |
+| 32 | Ghost of Tsushima | 140h+ |
+| 33 | Fallout 4 | 198h |
+| 34 | Starfield | 193h |
+| 35 | Assassin's Creed Valhalla | 270h+ |
+| 36 | Kingdom Come: Deliverance II | 131h |
+| 37 | Death Stranding 2: On the Beach | 61h |
+| 38 | Black Myth: Wukong | 61h |
+| 39 | Dragon's Dogma 2 | 74h |
 | 40 | Hollow Knight: Silksong | 115h |
 | 41 | Resident Evil 2 (Remake) | — |
 | 42 | God of War (2018) | 49h |
