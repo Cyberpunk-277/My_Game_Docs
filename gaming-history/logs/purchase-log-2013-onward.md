@@ -68,7 +68,7 @@ MAY 19  | The Witcher 3: Wild Hunt             | PS4        | Purchased 💵
 MAY 29  | Splatoon                             | Wii U      | —  
 JUN 23  | Batman: Arkham Knight                | PS4        | Purchased 💵  
 AUG 25  | Madden 16                            | PS4        | Purchased 💵  
-SEP 01  | Metal Gear Solid V: The Phantom Pain | PS4       | Purchased 💵  
+SEP 01  | Metal Gear Solid V: The Phantom Pain | PS4        | Purchased 💵  
 SEP 25  | FIFA 16                              | PS4        | Purchased 💵  
 SEP 25  | NBA 2K16                             | Xbox One   | Purchased 💵  
 OCT 23  | Assassin's Creed: Syndicate          | PS4        | Purchased 💵  
@@ -226,10 +226,10 @@ JUL 19  | Marvel Ultimate Alliance 3          | Switch     | —
 JUL 26  | Fire Emblem: Three Houses           | Switch     | Purchased 💵 💿  
 JUL 26  | Wolfenstein: Youngblood             | Xbox       | Purchased 💵 💿  
 AUG 02  | Madden 20                           | PC         | Origin Access Premier 🎮  
-AUG 23  | Telling Lies                         | PC         | —  
+AUG 23  | Telling Lies                        | PC         | —  
 AUG 27  | Ancestors: The Humankind Odyssey    | PC         | —  
 AUG 27  | Control                             | Xbox       | Purchased 💵 💿  
-AUG 30  | Astral Chain                         | Switch     | Purchased 💵 💿  
+AUG 30  | Astral Chain                        | Switch     | Purchased 💵 💿  
 SEP 03  | Catherine: Full Body                | PS4 Pro    | —  
 SEP 04  | PvZ: Battle for Neighborville       | PC         | Origin Access Premier 🎮  
 SEP 06  | Monster Hunter World: Iceborne      | PS4 Pro    | Purchased 💵 💾  
@@ -265,7 +265,7 @@ MAR 24  | Bleeding Edge                       | Xbox       | Game Pass 🎮
 APR 03  | Resident Evil 3                     | Xbox       | Purchased 💵 💿  
 APR 10  | Final Fantasy VII Remake            | PS4 Pro    | Purchased 💵 💿  
 APR 24  | XCOM: Chimera Squad                 | PC         | —  
-APR 28  | Gears Tactics                        | Xbox       | Game Pass 🎮  
+APR 28  | Gears Tactics                       | Xbox       | Game Pass 🎮  
 MAY 26  | Minecraft: Dungeons                 | Xbox       | Game Pass 🎮  
 MAY 29  | Xenoblade Chronicles: Definitive    | Switch     | —  
 JUN 19  | The Last of Us Part II              | PS4 Pro    | Purchased 💵 💿  
@@ -277,9 +277,9 @@ AUG 28  | Wasteland 3                         | Xbox       | Game Pass 🎮
 SEP 04  | Tony Hawk's Pro Skater 1 + 2        | PS4/5      | Purchased 💵 💾  
 SEP 04  | Marvel's Avengers                   | PS4/5      | Purchased 💵 💾  
 SEP 15  | Spelunky 2                          | PS4/5      | —  
-SEP 17  | Hades                                | Switch     | Purchased 💵 💾  
+SEP 17  | Hades                               | Switch     | Purchased 💵 💾  
 OCT 02  | Star Wars: Squadrons                | Xbox       | —  
-OCT 06  | FIFA 21                              | Xbox       | Purchased 💵 💿  
+OCT 06  | FIFA 21                             | Xbox       | Purchased 💵 💿  
 OCT 06  | Baldur's Gate 3                     | PC         | — (Early Access)  
 OCT 29  | Watch Dogs: Legion                  | PS4/5      | Purchased 💵 💿  
 NOV 10  | Assassin's Creed Valhalla           | Xbox       | Purchased 💵 💿  
@@ -412,9 +412,9 @@ JAN 18  | Prince of Persia: The Lost Crown     | PS5        | Ubisoft+ 🎮
 JAN 19  | TLOU Part II Remastered              | PS5        | Purchased 💵 🎮 (Upgrade)  
 JAN 26  | Like a Dragon: Infinite Wealth       | PS5        | Purchased 💵 💿  
 FEB 02  | Persona 3 Reload                     | Xbox       | Game Pass 🎮  
-FEB 02  | Suicide Squad: Kill the Justice League | PS5      | Purchased 💵 💿  
+FEB 02  | Suicide Squad: Kill the Justice League |PS5       | Purchased 💵 💿  
 FEB 08  | Helldivers II                        | PS5        | Purchased 💵 💾  
-FEB 16  | Skull & Bones                         | PS5        | Ubisoft+ 🎮  
+FEB 16  | Skull & Bones                        | PS5        | Ubisoft+ 🎮  
 FEB 29  | Final Fantasy VII Rebirth            | PS5        | Purchased 💵 💿  
 MAR 22  | Dragon's Dogma II                    | PS5        | Purchased 💵 💿  
 MAR 22  | Rise of the Rōnin                    | PS5        | Purchased 💵 🎮 (Upgrade)  
@@ -426,15 +426,15 @@ JUL 19  | EA Sports College Football 25        | PS5        | —
 AUG 20  | Black Myth: Wukong                   | PS5        | Purchased 💵 💾  
 AUG 23  | Concord                              | PS5        | —  
 AUG 30  | Star Wars Outlaws                    | PS5        | Ubisoft+ 🎮  
-SEP 06  | Astro Bot                             | PS5        | Purchased 💵 💿  
+SEP 06  | Astro Bot                            | PS5        | Purchased 💵 💿  
 SEP 09  | Warhammer 40K: Space Marine II       | PS5        | Purchased 💵 🎮 (Upgrade)  
 SEP 26  | Zelda: Echoes of Wisdom              | Switch     | Purchased 💵 💿  
 OCT 08  | Silent Hill 2                        | PS5        | Purchased 💵 💿  
 OCT 11  | Metaphor: ReFantazio                 | PS5        | Purchased 💵 💿  
 OCT 15  | Neva                                 | PS5        | Purchased 💵 💾  
 OCT 25  | Call of Duty: Black Ops 6            | Xbox       | Game Pass 🎮  
-OCT 31  | Dragon Age: The Veilguard            | PS5        | —  
-NOV 14  | LEGO Horizon Adventures              | PS5        | —  
+OCT 31  | Dragon Age: The Veilguard            | PS5        | PS Plus Essential 🎮  
+NOV 14  | LEGO Horizon Adventures              | PS5        | PS Plus Extra 🎮  
 NOV 20  | S.T.A.L.K.E.R. 2                     | Xbox       | Game Pass 🎮  
 DEC 06  | Marvel Rivals                        | —          | Free 🎮  
 DEC 09  | Indiana Jones and the Great Circle   | Xbox       | Game Pass 🎮  
@@ -451,53 +451,53 @@ MAR 20  | Xenoblade Chronicles X: Definitive  | Switch     | —
 APR 08  | South of Midnight                   | Xbox       | Game Pass 🎮  
 APR 24  | Clair Obscur: Expedition 33         | Xbox       | Game Pass 🎮  
 MAY 15  | DOOM: The Dark Ages                 | Xbox       | Game Pass 🎮  
-JUN 05  | Mario Kart World                    | Switch 2   | —  
+JUN 05  | Mario Kart World                    | Switch 2   | Purchased 💵  
 JUN 26  | Death Stranding 2: On the Beach     | PS5        | Purchased 💵 💿  
 JUL 11  | Tony Hawk's Pro Skater 3 + 4        | Xbox       | Game Pass 🎮  
 JUL 17  | Donkey Kong Bananza                 | Switch 2   | Purchased 💵 💿   
 AUG 08  | Mafia: The Old Country              | PS5        | Purchased 💵
 AUG 19  | Sword Of The Sea                    | PS5        | PS+
-AUG 26  | Gears of War: Reloaded              | PS5        | —  
+AUG 26  | Gears of War: Reloaded              | PS5        | Purchased 💵 🎮 (Upgrade)   
 AUG 28  | Metal Gear Solid Δ: Snake Eater     | PS5        | Purchased 💵
-AUG 29  | Lost Soul Aside                     | PS5        | —  
+AUG 29  | Lost Soul Aside                     | PS5        | Purchased 💵  
 SEP 04  | Hollow Knight: Silksong             | Xbox       | Game Pass 🎮
-SEP 12  | Borderlands 4                       | PS5        | —  
+SEP 12  | Borderlands 4                       | PS5        | Purchased 💵  
 SEP 19  | Dying Light: The Beast              | PS5        | —  
-OCT 02  | Ghost of Yotei                      | PS5        | —  
+OCT 02  | Ghost of Yotei                      | PS5        | Purchased 💵 🎮 (Upgrade)   
 OCT 21  | Vampire: The Masquerade Bloodlines 2 | Xbox      | —  
-OCT 22  | Dispatch                            | PS5        | —  
+OCT 22  | Dispatch                            | PS5        | Purchased 💵  
 OCT 29  | The Outer Worlds 2                  | Xbox       | Game Pass 🎮  
-DEC 04  | Metroid Prime 4: Beyond             | Switch 2   | —  
+DEC 04  | Metroid Prime 4: Beyond             | Switch 2   | Purchased 💵  
 
 ------------------------------------------------------2026---------------------------------------------------------------------
 
-FEB 06  | Nioh 3                               | PS5        | —  
-FEB 27  | Resident Evil Requiem                | PS5        | —  
-MAR 05  | Marathon                             | PS5        | —  
-MAR 05  | Pokémon Pokopia                      | Switch 2   | —  
-MAR 19  | Crimson Desert                       | PS5        | —  
+FEB 06  | Nioh 3                               | PS5        | Purchased 💵
+FEB 27  | Resident Evil Requiem                | PS5        | Purchased 💵
+MAR 05  | Marathon                             | PS5        | Purchased 💵
+MAR 05  | Pokémon Pokopia                      | Switch 2   | Purchased 💵
+MAR 19  | Crimson Desert                       | PS5        | Purchased 💵 🎮 (Upgrade) 
 APR 14  | Replaced                             | Xbox       | Game Pass 🎮  
-APR 17  | Pragmata                             | PS5        | —  
-APR 30  | Saros                                | PS5        | —  
+APR 17  | Pragmata                             | PS5        | Purchased 💵
+APR 30  | Saros                                | PS5        | Purchased 💵
 MAY 19  | Forza Horizon 6                      | Xbox / PC  | Game Pass 🎮  
-MAY 22  | LEGO Batman: Legacy of the Dark Knight | PS5 / Xbox / PC | —  
-MAY 27  | 007: First Light                     | PS5        | —  
-JUL 09  | Assassin's Creed Black Flag Resynced | PS5        | —  
-JUL 28  | Halo: Campaign Evolved               | Xbox / PS5 / PC | —  
-AUG 04  | Beast of Reincarnation               | PS5 / Xbox / PC | —  
-AUG 06  | Marvel Tōkon: Fighting Souls         | PS5 / PC   | —  
+MAY 22  | LEGO Batman: Legacy of the Dark Knight | PS5      | Purchased 💵 🎮 (Upgrade)  
+MAY 27  | 007: First Light                     | PS5        | Purchased 💵
+JUL 09  | Assassin's Creed Black Flag Resynced | PS5        | Purchased 💵
+JUL 28  | Halo: Campaign Evolved               | Xbox       | Game Pass 🎮 
+AUG 04  | Beast of Reincarnation               | Xbox       | Game Pass 🎮  
+AUG 06  | Marvel Tōkon: Fighting Souls         | PS5        | Purchased 💵  
 AUG 27  | Resonance: A Plague Tale Legacy      | —          | —  
 SEP 02  | The Blood of Dawnwalker              | PS5        | —  
 SEP 15  | Marvel's Wolverine                   | PS5        | —  
 SEP 22  | Dune: Awakening                      | PS5        | Game Pass 🎮  
-SEP 24  | Control Resonant                     | PS5        | —  
+SEP 24  | Control Resonant                     | PS5        | Purchased 💵  
 SEP 25  | Onimusha: Way of the Sword           | PS5        | —  
 OCT 01  | Rayman Legends: Retold               | PS5        | —  
 OCT 02  | Ace Combat 8: Wings of Theve         | PS5        | —  
 OCT 06  | Star Wars: Galactic Racer            | PS5        | —  
 OCT 23  | Call of Duty: Modern Warfare 4       | PS5        | —  
 OCT 29  | Phantom Blade Zero                   | PS5        | —  
-NOV 19  | Grand Theft Auto VI                  | PS5        | —  
+NOV 19  | Grand Theft Auto VI                  | PS5        | Purchased 💵  
 
 ------------------------------------------------------2027---------------------------------------------------------------------
 
@@ -517,4 +517,9 @@ NOV 19  | Grand Theft Auto VI                  | PS5        | —
 
 ???     | In the Valley of Gods                | Xbox       | —  
 ???     | Dragon Quest XII: Beyond Dreams      | PS5        | —  
+
+------------------------------------------------------2029---------------------------------------------------------------------
+
 ???     | The Elder Scrolls VI                 | Xbox       | Xbox Game Pass
+
+
