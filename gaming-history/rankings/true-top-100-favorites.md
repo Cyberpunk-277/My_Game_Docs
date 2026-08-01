@@ -57,58 +57,58 @@ Sports titles excluded. Top 10 locked.
 | 46 | BioShock | — |
 | 47 | BioShock Infinite | — |
 | 48 | Uncharted 4: A Thief's End | — |
-| 49 | It Takes Two | — |
-| 50 | Deathloop | — |
-| 51 | Psychonauts 2 | — |
-| 52 | Dishonored 2 | — |
-| 53 | Dishonored | — |
-| 54 | Borderlands 2 | — |
-| 55 | Titanfall | — |
-| 56 | Journey | — |
-| 57 | Astro Bot | — |
-| 58 | Marvel's Spider-Man 2 | — |
-| 59 | The Legend of Zelda: Breath of the Wild | — |
-| 60 | The Legend of Zelda: Tears of the Kingdom | 76h |
-| 61 | Super Mario Odyssey | — |
-| 62 | Uncharted 3: Drake's Deception | — |
-| 63 | Assassin's Creed II | — |
-| 64 | Deus Ex: Human Revolution | — |
-| 65 | Indiana Jones and the Great Circle | — |
-| 66 | The Division 2 | 113h+ |
-| 67 | Helldivers 2 | 54h |
-| 68 | Stellar Blade | — |
-| 69 | Neon White | — |
-| 70 | Titanfall 2 | — |
-| 71 | XCOM: Enemy Unknown | — |
-| 72 | NieR: Automata | — |
-| 73 | The Outer Worlds | 47h |
-| 74 | Far Cry 3 | — |
-| 75 | L.A. Noire | — |
-| 76 | Prey (2017) | — |
-| 77 | Yakuza: Like a Dragon | 60h |
-| 78 | Ghost of Yōtei | 71h |
-| 79 | Assassin's Creed Shadows | 117h |
-| 80 | Final Fantasy XVI | 83h |
-| 81 | Hogwarts Legacy | 77h |
-| 82 | Star Wars Jedi: Survivor | 61h |
-| 83 | Days Gone | 54h |
-| 84 | A Plague Tale: Requiem | 57h |
-| 85 | HITMAN 3 | 46h |
-| 86 | Rise of the Ronin | 45h |
-| 87 | Diablo IV | 87h |
-| 88 | Dying Light 2 Stay Human | 85h |
-| 89 | Marvel's Midnight Suns | 61h |
-| 90 | Star Wars Outlaws | 51h |
-| 91 | Halo Infinite | 55h |
-| 92 | Batman: Arkham Knight | 50h |
-| 93 | Control | — |
-| 94 | Chrono Trigger | — |
-| 95 | Super Smash Bros. Melee | — |
-| 96 | Grand Theft Auto: San Andreas | — |
-| 97 | Call of Duty 4: Modern Warfare | — |
-| 98 | Gears of War | — |
-| 99 | LittleBigPlanet | — |
-| 100 | Borderlands 3 | 94h |
+| 49 | Pokémon Blue | — |
+| 50 | It Takes Two | — |
+| 51 | Deathloop | — |
+| 52 | Psychonauts 2 | — |
+| 53 | Dishonored 2 | — |
+| 54 | Dishonored | — |
+| 55 | Borderlands 2 | — |
+| 56 | Titanfall | — |
+| 57 | Journey | — |
+| 58 | Astro Bot | — |
+| 59 | Marvel's Spider-Man 2 | — |
+| 60 | The Legend of Zelda: Breath of the Wild | — |
+| 61 | The Legend of Zelda: Tears of the Kingdom | 76h |
+| 62 | Super Mario Odyssey | — |
+| 63 | Uncharted 3: Drake's Deception | — |
+| 64 | Assassin's Creed II | — |
+| 65 | Deus Ex: Human Revolution | — |
+| 66 | Indiana Jones and the Great Circle | — |
+| 67 | The Division 2 | 113h+ |
+| 68 | Helldivers 2 | 54h |
+| 69 | Stellar Blade | — |
+| 70 | Neon White | — |
+| 71 | Titanfall 2 | — |
+| 72 | XCOM: Enemy Unknown | — |
+| 73 | NieR: Automata | — |
+| 74 | The Outer Worlds | 47h |
+| 75 | Far Cry 3 | — |
+| 76 | L.A. Noire | — |
+| 77 | Prey (2017) | — |
+| 78 | Yakuza: Like a Dragon | 60h |
+| 79 | Ghost of Yōtei | 71h |
+| 80 | Assassin's Creed Shadows | 117h |
+| 81 | Final Fantasy XVI | 83h |
+| 82 | Hogwarts Legacy | 77h |
+| 83 | Star Wars Jedi: Survivor | 61h |
+| 84 | Days Gone | 54h |
+| 85 | A Plague Tale: Requiem | 57h |
+| 86 | HITMAN 3 | 46h |
+| 87 | Rise of the Ronin | 45h |
+| 88 | Diablo IV | 87h |
+| 89 | Dying Light 2 Stay Human | 85h |
+| 90 | Marvel's Midnight Suns | 61h |
+| 91 | Star Wars Outlaws | 51h |
+| 92 | Halo Infinite | 55h |
+| 93 | Batman: Arkham Knight | 50h |
+| 94 | Control | — |
+| 95 | Chrono Trigger | — |
+| 96 | Super Smash Bros. Melee | — |
+| 97 | Grand Theft Auto: San Andreas | — |
+| 98 | Call of Duty 4: Modern Warfare | — |
+| 99 | Gears of War | — |
+| 100 | LittleBigPlanet | — |
 
 ---
 
