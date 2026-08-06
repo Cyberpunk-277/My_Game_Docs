@@ -88,7 +88,6 @@ Sports titles excluded. Top 10 locked.
 | 46 | BioShock | — |
 | 77 | Yakuza: Like a Dragon | 60h |
 | 78 | Ghost of Yōtei | 71h |
-| 79 | Assassin's Creed Shadows | 117h |
 | 80 | Final Fantasy XVI | 83h |
 | 85 | HITMAN 3 | 46h |
 | 81 | Hogwarts Legacy | 77h |
