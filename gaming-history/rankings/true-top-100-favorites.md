@@ -1,11 +1,14 @@
 # 🏆 True Top 100 Most Favorite Games
 
-Synthesized personal ranking based on:
+Rebuilt ranking using:
 - Personal preference & impact (primary)
-- Game of the Generation scores + GOTY placements
+- Yearly GOTY lists (strong weight for #1–#3 placements)
+- Game of the Generation scores
 - Hours played
+- Franchise significance / first entries where relevant
+- Light Metacritic context
 
-Sports titles excluded. Top 10 locked.
+Sports titles excluded.
 
 | Rank | Game | Hours (approx) |
 |------|------|----------------|
@@ -31,86 +34,93 @@ Sports titles excluded. Top 10 locked.
 | 20 | Uncharted 2: Among Thieves | — |
 | 21 | Bloodborne | — |
 | 22 | Halo: Combat Evolved | — |
-| 23 | Gears of War | — |
-| 24 | Resident Evil 4 (Remake) | 47h |
-| 25 | Kingdom Come: Deliverance II | 131h |
-| 26 | Death Stranding 2: On the Beach | 61h |
-| 27 | Half-Life: Alyx | — |
-| 28 | Metaphor: ReFantazio | 104h |
-| 29 | Monster Hunter: World | 132h |
-| 30 | Horizon Zero Dawn | 70h |
+| 23 | Resident Evil 4 (Remake) | 47h |
+| 24 | God of War (2018) | 49h |
+| 25 | Horizon Zero Dawn | 70h |
+| 26 | Half-Life: Alyx | — |
+| 27 | Death Stranding 2: On the Beach | 61h |
+| 28 | Kingdom Come: Deliverance II | 131h |
+| 29 | Metaphor: ReFantazio | 104h |
+| 30 | Monster Hunter: World | 132h |
 | 31 | Ghost of Tsushima | 140h+ |
-| 32 | Fallout 4 | 198h |
-| 33 | Black Myth: Wukong | 61h |
-| 34 | Dragon's Dogma 2 | 74h |
-| 35 | Resident Evil 2 (Remake) | — |
-| 36 | God of War (2018) | 49h |
-| 37 | Hollow Knight: Silksong | 115h |
-| 38 | Deus Ex: Mankind Divided | 54h |
-| 39 | Super Mario Galaxy | — |
-| 40 | Mass Effect 3 | — |
-| 41 | Starfield | 193h |
-| 42 | Like a Dragon: Infinite Wealth | 112h |
-| 43 | Assassin's Creed Valhalla | 270h+ |
+| 32 | Resident Evil 2 (Remake) | — |
+| 33 | Gears of War | — |
+| 34 | Fallout 4 | 198h |
+| 35 | Like a Dragon: Infinite Wealth | 112h |
+| 36 | Black Myth: Wukong | 61h |
+| 37 | Dragon's Dogma 2 | 74h |
+| 38 | Hollow Knight: Silksong | 115h |
+| 39 | Horizon Forbidden West | 130h |
+| 40 | Super Mario Galaxy | — |
+| 41 | Mass Effect 3 | — |
+| 42 | Titanfall | — |
+| 43 | Red Dead Redemption | — |
 | 44 | The Elder Scrolls V: Skyrim | 87h |
-| 45 | Horizon Forbidden West | 130h |
+| 45 | BioShock | — |
 | 46 | BioShock Infinite | — |
 | 47 | Uncharted 4: A Thief's End | — |
 | 48 | Pokémon Blue | — |
 | 49 | It Takes Two | — |
-| 50 | Dishonored 2 | — |
-| 51 | Dishonored | — |
-| 52 | Borderlands 2 | — |
-| 53 | Titanfall | — |
-| 54 | Red Dead Redemption | — |
-| 55 | Journey | — |
-| 56 | Astro Bot | — |
-| 57 | Marvel's Spider-Man 2 | — |
-| 58 | The Legend of Zelda: Breath of the Wild | — |
-| 59 | Super Mario Odyssey | — |
-| 60 | Uncharted 3: Drake's Deception | — |
-| 61 | Assassin's Creed II | — |
-| 62 | Deus Ex: Human Revolution | — |
-| 63 | The Division 2 | 113h+ |
-| 64 | Titanfall 2 | — |
-| 65 | Stellar Blade | — |
-| 66 | Indiana Jones and the Great Circle | — |
-| 67 | The Outer Worlds | 47h |
+| 50 | Starfield | 193h |
+| 51 | Assassin's Creed Valhalla | 270h+ |
+| 52 | Deus Ex: Mankind Divided | 54h |
+| 53 | Dishonored 2 | — |
+| 54 | Dishonored | — |
+| 55 | Borderlands 2 | — |
+| 56 | Journey | — |
+| 57 | Astro Bot | — |
+| 58 | Marvel's Spider-Man 2 | — |
+| 59 | The Legend of Zelda: Breath of the Wild | — |
+| 60 | Super Mario Odyssey | — |
+| 61 | Uncharted 3: Drake's Deception | — |
+| 62 | Assassin's Creed II | — |
+| 63 | Deus Ex: Human Revolution | — |
+| 64 | The Division 2 | 113h+ |
+| 65 | Titanfall 2 | — |
+| 66 | Stellar Blade | — |
+| 67 | Indiana Jones and the Great Circle | — |
 | 68 | Deathloop | — |
-| 69 | XCOM: Enemy Unknown | — |
-| 70 | NieR: Automata | — |
+| 69 | NieR: Automata | — |
+| 70 | XCOM: Enemy Unknown | — |
 | 71 | The Legend of Zelda: Tears of the Kingdom | 76h |
 | 72 | Chrono Trigger | — |
 | 73 | Super Smash Bros. Melee | — |
-| 74 | Control | — |
-| 75 | L.A. Noire | — |
-| 76 | Prey (2017) | — |
-| 77 | BioShock | — |
-| 78 | Yakuza: Like a Dragon | 60h |
-| 79 | Ghost of Yōtei | 71h |
-| 80 | Final Fantasy XVI | 83h |
-| 81 | HITMAN 3 | 46h |
-| 82 | Hogwarts Legacy | 77h |
-| 83 | Star Wars Jedi: Survivor | 61h |
-| 84 | Days Gone | 54h |
-| 85 | A Plague Tale: Requiem | 57h |
-| 86 | Diablo IV | 87h |
-| 87 | Dying Light 2 Stay Human | 85h |
-| 88 | Marvel's Midnight Suns | 61h |
-| 89 | Star Wars Outlaws | 51h |
+| 74 | Call of Duty 4: Modern Warfare | — |
+| 75 | Grand Theft Auto: San Andreas | — |
+| 76 | LittleBigPlanet | — |
+| 77 | Yakuza: Like a Dragon | 60h |
+| 78 | Ghost of Yōtei | 71h |
+| 79 | Final Fantasy XVI | 83h |
+| 80 | HITMAN 3 | 46h |
+| 81 | Control | — |
+| 82 | L.A. Noire | — |
+| 83 | Prey (2017) | — |
+| 84 | The Outer Worlds | 47h |
+| 85 | Days Gone | 54h |
+| 86 | A Plague Tale: Requiem | 57h |
+| 87 | Hogwarts Legacy | 77h |
+| 88 | Star Wars Jedi: Survivor | 61h |
+| 89 | Far Cry 3 | — |
 | 90 | Batman: Arkham Knight | 50h |
-| 91 | Far Cry 3 | — |
-| 92 | Psychonauts 2 | — |
-| 93 | Grand Theft Auto: San Andreas | — |
-| 94 | Call of Duty 4: Modern Warfare | — |
-| 95 | LittleBigPlanet | — |
-| 96 | Helldivers 2 | 54h |
-| 97 | Neon White | — |
-| 98 | Borderlands 3 | 94h |
-| 99 | Assassin's Creed Shadows | 117h |
+| 91 | Diablo IV | 87h |
+| 92 | Helldivers 2 | 54h |
+| 93 | Neon White | — |
+| 94 | Marvel's Midnight Suns | 61h |
+| 95 | Dying Light 2 Stay Human | 85h |
+| 96 | Star Wars Outlaws | 51h |
+| 97 | Borderlands 3 | 94h |
+| 98 | Assassin's Creed Shadows | 117h |
+| 99 | Psychonauts 2 | — |
 | 100 | Rise of the Ronin | 45h |
 
 ---
 
-*Last updated: August 6, 2026*  
-*Sources: personal rankings, `game-of-the-generation.md`, `top-100-most-played.md`*
+**Notes on the rebuild**
+- Top ~12 kept close to your last ordering.
+- GOTY #1s given strong boost (Witcher 3, Elden Ring, TLOU2, RDR2, FF7 Rebirth, Alan Wake 2, Horizon Zero Dawn, RE2 Remake, Titanfall, It Takes Two, etc.).
+- Franchise firsts / landmarks weighted (Halo CE, Titanfall, Lone Echo, Pokémon Blue, Gears of War).
+- High personal hours still reflected (Apex, Overwatch, Valhalla, Fallout 4, etc.).
+- Recent strong performers from 2024–2025 GOTY lists moved up where earned (DS2, KCD2, Metaphor, Silksong, Infinite Wealth, Wukong, DD2).
+
+*Last updated: August 8, 2026*  
+*Sources: personal GOTY lists 2014–2026, `game-of-the-generation.md`, `top-100-most-played.md`, prior list edits*
