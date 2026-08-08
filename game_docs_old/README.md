@@ -1,13 +1,11 @@
 # ⚠️ game_docs_old (ARCHIVED)
 
-This folder is the **old / deprecated** version of the gaming docs.
+This folder is the **archived snapshot** of the original `game_docs/` setup before the restructure into `gaming-history/`.
 
-All active content lives in:
+**Active content lives in:**
+→ [`gaming-history/`](../gaming-history/)
 
-**→ [`gaming-history/`](../gaming-history/)**
-
-Do not edit files here. Kept only as a historical snapshot of the original quick setup.
+Files here are historical copies only — do not edit.
 
 ---
-
-Last labeled: August 8, 2026
+Archived: August 8, 2026
