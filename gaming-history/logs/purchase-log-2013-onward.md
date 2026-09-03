@@ -487,12 +487,14 @@ AUG 04  | Beast of Reincarnation               | Xbox       | Game Pass 🎮
 AUG 06  | Marvel Tōkon: Fighting Souls         | PS5        | Purchased 💵  
 AUG 27  | Resonance: A Plague Tale Legacy      | Xbox       | Game Pass 🎮   
 AUG 27  | Star Wars Zero Company               | PS5        | Purchased 💵    
+AUG 27  | Metal Gear Solid 4                   | PS5        | Purchased 💵  
 SEP 03  | The Blood of Dawnwalker              | PS5        | —  
 SEP 04  | Onimusha: Way of the Sword           | PS5        | —  
 SEP 15  | Marvel's Wolverine                   | PS5        | —  
 SEP 22  | Dune: Awakening                      | PS5        | Game Pass 🎮  
 SEP 24  | Control Resonant                     | PS5        | Purchased 💵  
 SEP 24  | Silent Hill: Townfall                | PS5        | —  
+SEP 29  | The Witcher 3: Wild Hunt — Remastered | PS5       | —  
 OCT 01  | Rayman Legends: Retold               | PS5        | —  
 OCT 02  | Ace Combat 8: Wings of Theve         | PS5        | —  
 OCT 06  | Star Wars: Galactic Racer            | PS5        | —  
@@ -500,6 +502,7 @@ OCT 06  | Gears of War: E-Day                  | Xbox       | Game Pass 🎮
 OCT 23  | Call of Duty: Modern Warfare 4       | PS5        | —  
 OCT 29  | Phantom Blade Zero                   | PS5        | —  
 NOV 19  | Grand Theft Auto VI                  | PS5        | Purchased 💵  
+???     | The Legend of Zelda: Ocarina of Time | Switch 2   | —  
 
 ------------------------------------------------------2027---------------------------------------------------------------------
 
@@ -526,6 +529,7 @@ APR 07  | Exodus                               | PS5        | —
 ???     | Crazy Taxi: World Tour               | PS5        | —  
 ???     | Senua                                | PS5        | —  
 ???     | Until Dawn 2                         | PS5        | —  
+???     | The Witcher 3: Songs of the Past     | PS5        | —  
 LATE    | Kingdom Hearts IV                    | PS5        | —  
 
 ------------------------------------------------------2028---------------------------------------------------------------------
