@@ -478,7 +478,7 @@ MAR 19  | Crimson Desert                       | PS5        | Purchased 💵 �
 APR 14  | Replaced                             | Xbox       | Game Pass 🎮  
 APR 17  | Pragmata                             | PS5        | Purchased 💵
 APR 30  | Saros                                | PS5        | Purchased 💵
-MAY 19  | Forza Horizon 6                      | Xbox.      | Game Pass 🎮  
+MAY 19  | Forza Horizon 6                      | Xbox       | Game Pass 🎮  
 MAY 22  | LEGO Batman: Legacy of the Dark Knight | PS5      | Purchased 💵 🎮 (Upgrade)  
 MAY 27  | 007: First Light                     | PS5        | Purchased 💵
 JUL 09  | Assassin's Creed Black Flag Resynced | PS5        | Purchased 💵
@@ -506,33 +506,33 @@ NOV 19  | Grand Theft Auto VI                  | PS5        | Purchased 💵
 JAN 15  | Stranger Than Heaven                 | Xbox       | Game Pass 🎮    
 FEB 12  | Tomb Raider: Legacy of Atlantis      | PS5        | —  
 FEB 16  | God of War Laufey                    | PS5        | —  
-FEB 18  | Persona 4 Revival                    | PS5 / Xbox / PC | —  
-FEB 23  | Fable                                | Xbox / PS5 / PC | Game Pass 🎮  
-FEB     | Metro 2039                           | PS5 / Xbox / PC | —  
-SPRING  | Final Fantasy VII Revelation         | PS5 / Xbox / PC / Switch 2 | —  
+FEB 18  | Persona 4 Revival                    | PS5        | —  
+FEB 23  | Fable                                | Xbox       | Game Pass 🎮  
+FEB     | Metro 2039                           | PS5        | —  
+SPRING  | Final Fantasy VII Revelation         | PS5        | —  
 APR 07  | Exodus                               | PS5        | —  
 ???     | Resident Evil Veronica               | PS5        | —  
 ???     | Clockwork Revolution                 | Xbox       | Game Pass 🎮
-???     | State of Decay 3                     | Xbox / PC  | —  
+???     | State of Decay 3                     | Xbox       | Game Pass 🎮  
 ???     | Assassin's Creed: Project Hexe       | PS5        | —  
-???     | Judas                                | PS5 / PC   | —  
+???     | Judas                                | PS5        | —  
 ???     | Marvel 1943: Rise of Hydra           | PS5        | —  
 ???     | Star Wars: Eclipse                   | PS5        | —  
 ???     | Little Devil Inside                  | PS5        | —  
 ???     | Beyond Good and Evil 2               | Xbox       | —  
-???     | Tom Clancy's Splinter Cell Remake    | Xbox       | -
+???     | Tom Clancy's Splinter Cell Remake    | Xbox       | Game Pass 🎮
 ???     | Xenoblade Genesis                    | Switch 2   | —  
-???     | Spyro: A Realm Beyond                | Multi      | —  
-???     | Crazy Taxi: World Tour               | Multi      | —  
-???     | Senua                                | Multi      | —  
+???     | Spyro: A Realm Beyond                | PS5        | —  
+???     | Crazy Taxi: World Tour               | PS5        | —  
+???     | Senua                                | PS5        | —  
 ???     | Until Dawn 2                         | PS5        | —  
-LATE    | Kingdom Hearts IV                    | Multi      | —  
+LATE    | Kingdom Hearts IV                    | PS5        | —  
 
 ------------------------------------------------------2028---------------------------------------------------------------------
 
-???     | The Elder Scrolls VI                 | Xbox / PC  | Xbox Game Pass  
-???     | The Witcher 4                        | PS5.       | —  
-???     | Tomb Raider: Catalyst                | Multi      | —  
+???     | The Elder Scrolls VI                 | Xbox       | Game Pass 🎮  
+???     | The Witcher 4                        | PS5        | —  
+???     | Tomb Raider: Catalyst                | PS5        | —  
 ???     | In the Valley of Gods                | Xbox       | —  
 ???     | Dragon Quest XII: Beyond Dreams      | PS5        | —  
 
