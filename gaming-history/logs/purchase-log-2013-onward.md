@@ -531,6 +531,7 @@ APR 07  | Exodus                               | PS5        | —
 ???     | Crazy Taxi: World Tour               | PS5        | —  
 ???     | Senua                                | PS5        | —  
 ???     | Until Dawn 2                         | PS5        | —  
+???     | Persona 6                             | PS5        | —  
 ???     | The Witcher 3: Songs of the Past     | PS5        | —  
 LATE    | Kingdom Hearts IV                    | PS5        | —  
 
