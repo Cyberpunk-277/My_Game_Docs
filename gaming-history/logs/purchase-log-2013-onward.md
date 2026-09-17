@@ -495,7 +495,7 @@ SEP 17  | Fire Emblem: Fortune's Weave         | Switch 2   | Purchased 💵
 SEP 22  | Dune: Awakening                      | PS5        | Game Pass 🎮  
 SEP 24  | Control Resonant                     | PS5        | Purchased 💵  
 SEP 24  | Silent Hill: Townfall                | PS5        | —  
-SEP 29  | The Witcher 3: Wild Hunt —Remastered | PS5        | Free
+SEP 29  | The Witcher 3: Wild Hunt Remastered  | PS5        | Free
 OCT 01  | Rayman Legends: Retold               | PS5        | Purchased 💵    
 OCT 02  | Ace Combat 8: Wings of Theve         | PS5        | —  
 OCT 06  | Star Wars: Galactic Racer            | PS5        | Purchased 💵    
