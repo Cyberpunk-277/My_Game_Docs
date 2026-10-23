@@ -102,4 +102,3 @@ Rushed 3-to-4-hour runtime heavily padded with lazy "Open Combat Missions"—dro
 ### Notes
 
 * Mainline titles omitted from rankings: **Black Ops 4 (2018)** shipped with no campaign.
-* Rankings prioritize narrative coherence, pacing rhythm, mechanical innovation, and solo mission identity.
