@@ -1,68 +1,105 @@
-# 🎖 Call of Duty Campaign Rankings
+# Call of Duty Campaign Rankings
 
 Personal ranking of Call of Duty campaigns, based on story, pacing, missions, and emotional impact.
 
 ---
 
-## 🟨 S-Tier (Outstanding)
+## S-Tier: Outstanding
 
-1. Call of Duty: Infinite Warfare (2016)  
-   A surprisingly emotional, well-written sci-fi story with great pacing and characters.
+Peak franchise storytelling, exceptional pacing, and defining setpieces.
 
-2. Call of Duty: Modern Warfare 2 (2009)  
-   Iconic missions, relentless pacing, and unforgettable moments like “No Russian.”
-
-3. Call of Duty: Black Ops (2010)  
-   Gripping Cold War psychological thriller with excellent twists and memorable voice acting.
-
-4. Call of Duty 4: Modern Warfare (2007)  
-   The campaign that redefined military shooters — intense, cinematic, and still holds up.
-
----
-
-## 🟩 A-Tier (Great)
-
-5. Call of Duty: Modern Warfare (2019)  
-   Grounded, gritty reboot with impressive realism and stealth-based missions.
-
-6. Call of Duty: World at War (2008)  
-   Raw, brutal World War II setting with a memorable cast and disturbing tone.
-
-7. Call of Duty: WWII (2017)  
-   A solid return to WWII with cinematic flair, though a bit formulaic at times.
+1. **Call of Duty: Infinite Warfare (2016)**
+*Infinity Ward*
+A surprisingly emotional, grounded sci-fi military drama with top-tier character writing (Ethan) and seamless hub-to-cockpit mission transitions.
+2. **Call of Duty: Modern Warfare 2 (2009)**
+*Infinity Ward*
+Relentless, blockbuster cinematic momentum paired with legendary setpieces like "Whiskey Hotel" and "Cliffhanger".
+3. **Call of Duty: Black Ops (2010)**
+*Treyarch*
+Masterclass in Cold War psychological paranoia; razor-sharp twists and iconic dialogue.
+4. **Call of Duty 4: Modern Warfare (2007)**
+*Infinity Ward*
+The industry blueprint. Defined modern scripted military pacing with benchmarks like "All Ghillied Up".
 
 ---
 
-## 🟦 B-Tier (Good)
+## A-Tier: Great
 
-8. Call of Duty: Black Ops III (2015)  
-   A messy, sci-fi-heavy narrative that’s ambitious but convoluted — better with co-op.
+High-impact execution with distinct mechanical and atmospheric strengths.
 
-9. Call of Duty: Advanced Warfare (2014)  
-   Strong start with great tech and Kevin Spacey’s performance — ends weaker.
-
-10. Call of Duty 2 (2005)  
-   Classic WWII action — great for its time, though less cinematic by today’s standards.
-
-11. Call of Duty: Vanguard (2021)  
-   Cool multi-perspective concept, but the execution lacks depth and cohesion.
-
----
-
-## 🟥 C-Tier (Disappointing)
-
-12. Call of Duty: Black Ops II (2012)  
-   Innovative branching choices, but the narrative suffers from uneven pacing.
-
-13. Call of Duty: Ghosts (2013)  
-   Decent action and visuals, but a forgettable story with weak character development.
-
-14. Call of Duty: Modern Warfare 3 (2011)  
-   Concludes the trilogy but feels rushed — more bombastic than impactful.
+5. **Call of Duty: Modern Warfare (2019)**
+*Infinity Ward*
+Gritty, realistic tactical reinvention highlighted by the surgical tension of "Clean House" and "Going Dark".
+6. **Call of Duty: Black Ops 6 (2024)**
+*Raven / Treyarch*
+The most mechanically inventive campaign in years—seamlessly blending open espionage, casino heist mechanics, safehouse puzzles, and classic spectacle.
+7. **Call of Duty: Black Ops Cold War (2020)**
+*Raven / Treyarch*
+Superb 1980s spycraft with branching story outcomes, safehouse evidence boards, and mind-bending psychological sequences.
+8. **Call of Duty: World at War (2008)**
+*Treyarch*
+Raw, harrowing, and oppressive Pacific/Eastern front warfare with unmatched visceral grit.
+9. **Call of Duty: Modern Warfare 4 (2026)**
+*Infinity Ward*
+A focused, cinematic recovery for the sub-series; strips out open-combat bloat in favor of high-stakes Task Force 141 scripted military ops across East Asia.
+10. **Call of Duty: WWII (2017)**
+*Sledgehammer*
+Visually striking and earnest European theatre run, though structurally conventional.
 
 ---
 
-### 📝 Notes
+## B-Tier: Good
 
-- This list only ranks campaigns — multiplayer and Zombies are not considered.  
-- Rankings are based on narrative quality, mission variety, pacing, and memorability.
+Solid gameplay with noticeable narrative flaws or structural bloat.
+
+11. **Call of Duty: Modern Warfare II (2022)**
+*Infinity Ward*
+High technical fidelity and strong Task Force 141 chemistry, diluted by protracted survival-crafting segments that stalled third-act momentum.
+12. **Call of Duty: Black Ops III (2015)**
+*Treyarch*
+Ambitious, trippy transhumanist concepts that dissolved into convoluted pacing; far better in co-op than solo.
+13. **Call of Duty: Advanced Warfare (2014)**
+*Sledgehammer*
+Crisp introduction of exoskeleton mobility and a solid antagonist performance, trailing off into generic third-act tropes.
+14. **Call of Duty 2 (2005)**
+*Infinity Ward*
+The foundational WWII classic; historically critical, though built on straightforward corridor waves by modern standards.
+15. **Call of Duty: Vanguard (2021)**
+*Sledgehammer*
+Strong visual presentation undone by disjointed flashback origin vignettes that stunted narrative continuity.
+
+---
+
+## C-Tier: Disappointing
+
+Compromised storytelling, narrative misfires, or flawed design paradigms.
+
+16. **Call of Duty: Black Ops II (2012)**
+*Treyarch*
+Pioneer in player-driven choice and villain design (Raul Menendez), though punctuated by jarring era shifts and uneven RTS Strike Force ops.
+17. **Call of Duty: Ghosts (2013)**
+*Infinity Ward*
+Ambitious post-apocalyptic premise hampered by flat characters and an unresolved cliffhanger.
+18. **Call of Duty: Modern Warfare 3 (2011)**
+*Infinity Ward / Sledgehammer*
+Wraps up the original trilogy with explosive spectacle, but leans heavily on repetitive shock value over genuine tension.
+19. **Call of Duty: Black Ops 7 (2025)**
+*Treyarch*
+Polarizing design shift; forcing online co-op architecture onto the campaign left solo playthroughs empty without friendly AI squads, turning story beats into generic objective clears.
+
+---
+
+## D-Tier: Botched
+
+Critical failure in campaign design and pacing.
+
+20. **Call of Duty: Modern Warfare III (2023)**
+*Sledgehammer*
+Rushed 3-to-4-hour runtime heavily padded with lazy "Open Combat Missions"—dropping solo players into recycled Warzone map sectors to scavenge glowing loot crates against bots.
+
+---
+
+### Notes
+
+* Mainline titles omitted from rankings: **Black Ops 4 (2018)** shipped with no campaign.
+* Rankings prioritize narrative coherence, pacing rhythm, mechanical innovation, and solo mission identity.
