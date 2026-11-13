@@ -500,7 +500,7 @@ OCT 01  | Rayman Legends: Retold               | PS5        | Purchased 💵
 OCT 02  | Ace Combat 8: Wings of Theve         | PS5        | —  
 OCT 06  | Star Wars: Galactic Racer            | PS5        | Purchased 💵    
 OCT 06  | Gears of War: E-Day                  | Xbox       | Game Pass 🎮   
-OCT 23  | Call of Duty: Modern Warfare 4       | PS5        | —  
+OCT 23  | Call of Duty: Modern Warfare 4       | PS5        | Purchased 💵  
 OCT 29  | Phantom Blade Zero                   | PS5        | —  
 NOV 05  | The Legend of Zelda: Ocarina of Time | Switch 2   | Purchased 💵    
 NOV 19  | Grand Theft Auto VI                  | PS5        | Purchased 💵  
