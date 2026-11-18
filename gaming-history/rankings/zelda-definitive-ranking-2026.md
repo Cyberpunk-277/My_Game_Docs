@@ -433,3 +433,144 @@ The most important distinction is that **the best Zelda game, the most beloved Z
 Replayability and modern QoL are included without unfairly penalizing older games simply because they have not received modern remakes.
 
 **This is the master reference for ranking, collecting, and playing through the Zelda franchise.**
+
+
+---
+
+# 8. Zelda game sales – original releases, remakes, remasters & re-releases
+
+_Last sales-data review: November 17, 2026_
+
+This section tracks reported worldwide sales for the games in this guide, including separately released remakes, remasters, and enhanced editions. The goal is to show both **how each original game performed** and **how much demand its later versions generated**.
+
+## How to read these numbers
+
+- **Millions (M)** means millions of copies/units.
+- A figure beside a platform release is that release's reported total, not necessarily the lifetime total of the underlying game across every edition.
+- Nintendo's official investor-relations figures are used where available. For older titles and releases outside Nintendo's current top-selling software tables, the guide uses the latest accessible industry or community-compiled sales records. Those estimates should not be mistaken for audited Nintendo disclosures.
+- **Shipments and sell-through are not identical.** Some historical sources report shipments to retailers; others report consumer sales. The source and date matter.
+- Nintendo does not publish a complete, continuously updated sales ledger for every Zelda title. Sales from Virtual Console, eShop re-releases, Nintendo Switch Online libraries, and other digital re-releases are generally not broken out by title. They are therefore **not added again** to the original game's figure.
+- A bundle is counted as a bundle. The Game Boy Advance release of **A Link to the Past & Four Swords** does not provide a separate sales figure for Four Swords alone.
+- For **Oracle of Ages / Oracle of Seasons**, the available figure is combined; there is no reliable public split between the two games.
+
+## Best-selling Zelda releases – key takeaways
+
+1. **Breath of the Wild** is the clear sales leader. Nintendo reported 34.28M Switch units as of September 30, 2026; the Wii U version adds approximately 1.70M, for about **35.98M across those two original platform releases**.
+2. **Tears of the Kingdom** had reached 22.90M Switch units as of September 30, 2026, according to Nintendo.
+3. **Twilight Princess** is one of the strongest traditional-era sellers: approximately 8.93M across Wii and GameCube, before adding roughly 1.17M for the Wii U HD remaster.
+4. **Ocarina of Time** has sold exceptionally well across generations: 7.60M on N64, 6.44M for Ocarina of Time 3D, and more than 5.2M for the Switch 2 full remake in its first four days alone.
+5. **Link's Awakening** is a remake success story: the original Game Boy version is reported at 3.83M, Link's Awakening DX at 2.22M, and the 2019 Switch remake at approximately 6.63M.
+6. **Phantom Hourglass** is the strongest-selling DS-era handheld Zelda in the available list, at approximately 4.76M; Spirit Tracks is reported at 2.96M.
+
+## Mainline games and every separately reported edition
+
+| Game / release | Platform / edition | Reported sales | Notes |
+|---|---|---:|---|
+| The Legend of Zelda (1986) | NES original | **6.51M** | Historical estimate |
+| Zelda II: The Adventure of Link (1987) | NES original | **4.38M** | Historical estimate |
+| A Link to the Past (1991) | SNES original | **4.61M** | Historical estimate |
+| Link's Awakening (1993) | Game Boy original | **3.83M** | Separate from DX and Switch remake |
+| Link's Awakening DX (1998) | Game Boy Color | **2.22M** | Color-enhanced re-release; counted separately |
+| Ocarina of Time (1998) | Nintendo 64 original | **7.60M** | Original release |
+| Majora's Mask (2000) | Nintendo 64 original | **3.36M** | Original release |
+| Oracle of Ages + Oracle of Seasons (2001) | Game Boy Color pair | **3.99M combined** | No reliable public split between the two games |
+| The Wind Waker (2002) | GameCube original | **4.43M** | Original release |
+| A Link to the Past & Four Swords (2002) | Game Boy Advance bundle | **2.82M** | Bundle sales; not a standalone Four Swords count |
+| The Minish Cap (2004) | Game Boy Advance | **1.76M** | Original release |
+| Four Swords Adventures (2004) | GameCube | **~0.76M** | Historical estimate; source coverage is less robust |
+| Twilight Princess (2006) | Wii | **7.50M** | Original Wii release |
+| Twilight Princess (2006) | GameCube | **1.43M** | Original GameCube release |
+| Phantom Hourglass (2007) | Nintendo DS | **4.76M** | Original release |
+| Spirit Tracks (2009) | Nintendo DS | **2.96M** | Original release |
+| Ocarina of Time 3D (2011) | Nintendo 3DS remake | **6.44M** | Counted separately from N64 |
+| Skyward Sword (2011) | Wii original | **3.67M** | Original release |
+| A Link Between Worlds (2013) | Nintendo 3DS | **4.26M** | Original release |
+| The Wind Waker HD (2013) | Wii U HD remaster | **2.37M** | Counted separately from GameCube |
+| Tri Force Heroes (2015) | Nintendo 3DS | **1.36M** | Multiplayer entry |
+| Majora's Mask 3D (2015) | Nintendo 3DS remake | **3.46M** | Counted separately from N64 |
+| Twilight Princess HD (2016) | Wii U HD remaster | **~1.17M** | Counted separately from Wii / GameCube |
+| Breath of the Wild (2017) | Nintendo Switch | **34.28M** | Nintendo official figure, September 30, 2026 |
+| Breath of the Wild (2017) | Wii U | **~1.70M** | Historical platform figure |
+| Link's Awakening (2019) | Nintendo Switch remake | **~6.63M** | Separate from Game Boy and DX releases |
+| Echoes of Wisdom (2024) | Nintendo Switch | **~4.09M** | Worldwide estimate reported for September 2026 |
+| Tears of the Kingdom (2023) | Nintendo Switch | **22.90M** | Nintendo official figure, September 30, 2026 |
+| Skyward Sword HD (2021) | Nintendo Switch HD remaster | **~4.15M** | Separate from Wii original |
+| Ocarina of Time (2026) | Nintendo Switch 2 full remake | **5.2M+ in first four days** | Nintendo-reported worldwide launch figure; not a final lifetime total |
+
+**A note on ordering:** This table is organized by original release chronology, not sales rank. The figures are deliberately kept edition-by-edition where the source allows that distinction.
+
+## Combined franchise totals for games with multiple reported editions
+
+These subtotals add the separately reported physical/digital release figures shown above. They do not include unreported Virtual Console, eShop, or Nintendo Switch Online downloads.
+
+| Underlying game | Editions included | Approximate reported total |
+|---|---|---:|
+| Ocarina of Time | N64 + 3DS + Switch 2 first-four-day launch | **19.24M+** |
+| Majora's Mask | N64 + 3DS | **6.82M** |
+| The Wind Waker | GameCube + Wii U HD | **6.80M** |
+| Twilight Princess | GameCube + Wii + Wii U HD | **10.10M** |
+| Skyward Sword | Wii + Switch HD | **7.82M** |
+| Link's Awakening | Game Boy + DX + Switch remake | **12.68M** |
+| Breath of the Wild | Wii U + Switch | **~35.98M** |
+| A Link to the Past | SNES + GBA bundle | **7.43M bundle-inclusive** |
+
+**Interpretation:** These combined figures are useful for comparing the commercial reach of an adventure across generations, but they are not a perfect measure of unique players. Someone who bought the original and a remake is counted twice, and the A Link to the Past GBA bundle also includes Four Swords.
+
+## Multiplayer and bundled releases
+
+| Game / release | Reported sales | How to interpret it |
+|---|---:|---|
+| Four Swords (2002) | **Not separately disclosed** | Included in the 2.82M A Link to the Past & Four Swords GBA bundle figure |
+| Four Swords Adventures (2004) | **~0.76M** | Historical estimate |
+| Tri Force Heroes (2015) | **~1.36M** | Nintendo 3DS release |
+
+## Re-releases that do not have separate public sales totals
+
+The following distribution methods made older Zelda games playable again, but no dependable, complete per-title sales figure is publicly available for those downloads. They should not be added to the tables above without new evidence.
+
+- Virtual Console releases on Wii, Wii U, and Nintendo 3DS.
+- Nintendo Switch Online NES, SNES, Game Boy, Game Boy Advance, and Nintendo 64 libraries.
+- Nintendo Switch Online + Expansion Pack GameCube releases.
+- Other digital re-releases and regional bundles where Nintendo has not published title-level sales.
+
+These are **availability re-releases**, not new retail remakes or remasters. Their downloads or subscription engagement are not publicly itemized in the same way as standalone game sales.
+
+## Sales ranking – largest reported release editions
+
+This is a release-edition ranking, not a ranking of the underlying adventures after combining all remakes.
+
+| Rank | Release edition | Reported sales |
+|---:|---|---:|
+| 1 | Breath of the Wild – Switch | **34.28M** |
+| 2 | Tears of the Kingdom – Switch | **22.90M** |
+| 3 | Ocarina of Time – N64 | **7.60M** |
+| 4 | Twilight Princess – Wii | **7.50M** |
+| 5 | Link's Awakening – Switch remake | **~6.63M** |
+| 6 | The Legend of Zelda – NES | **6.51M** |
+| 7 | Ocarina of Time 3D – 3DS | **6.44M** |
+| 8 | Phantom Hourglass – DS | **4.76M** |
+| 9 | A Link to the Past – SNES | **4.61M** |
+| 10 | The Wind Waker – GameCube | **4.43M** |
+
+*The Ocarina of Time Switch 2 remake is not placed in this lifetime ranking because its only comparable public figure here is its first-four-day launch total, not a lifetime total.*
+
+## Sales sources and confidence
+
+**Primary Nintendo disclosures**
+
+- [Nintendo – Switch software sales data](https://www.nintendo.co.jp/ir/en/finance/software/switch.html) – official worldwide lifetime unit figures for top-selling Switch software, as of September 30, 2026. Nintendo says these figures include physical and digital sales and software bundled with hardware or other products.
+- [Nintendo – Ocarina of Time Switch 2 launch announcement](https://www.nintendo.co.jp/corporate/release/en/2026/261111.html) – more than 5.2M worldwide in the first four days after the November 5, 2026 launch.
+
+**Secondary compilations and reporting**
+
+- [Quartz – Best-selling Zelda games, updated November 2, 2026](https://qz.com/best-selling-zelda-games-ranked-sales) – a release-by-release comparison based on a compiled 26-entry sales table, including original games and remasters/remakes.
+- [The Legend of Zelda – Series Sales](https://zeldawiki.wiki/wiki/The_Legend_of_Zelda_-_Series_Sales) – a detailed compilation of last-known global shipment figures, with explicit notes about missing digital re-release data.
+- [Statista – Zelda lifetime sales by title](https://www.statista.com/statistics/1389789/zelda-video-game-unit-sales/) – a September 2026 snapshot of selected game titles.
+
+**Confidence labels**
+
+- **High:** Nintendo has directly published the figure.
+- **Medium:** A widely repeated historical figure from a compiled sales record or established games-industry reporting; Nintendo does not currently publish a matching up-to-date total.
+- **Low / approximate:** Sparse historical coverage or a figure that varies across secondary databases.
+
+The sales appendix should be updated when Nintendo publishes new figures. Do not silently replace older platform-specific numbers with franchise-wide totals, and do not present estimated historical figures as official Nintendo disclosures.
