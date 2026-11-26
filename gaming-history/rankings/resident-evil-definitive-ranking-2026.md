@@ -146,10 +146,6 @@ This era contains the original survival-horror foundation, the fixed-camera clas
 
 **Replayability & QoL:** Good for historical play and speedrunning, but the original voice acting, controls, and presentation make it harder to recommend as a first entry.
 
-## #12 – Resident Evil 2 (1998) – GameCube / later ports
-
-This is the same original game as #2, not a separate ranking entry. Later ports and rereleases do not constitute new versions with fundamentally different design. They are included here as a reminder that platform rereleases should not be double-counted in a game ranking.
-
 ### Pre-RE Engine ranking summary
 
 | Rank | Game | Best way to play today |
