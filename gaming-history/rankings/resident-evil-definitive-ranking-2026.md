@@ -439,99 +439,202 @@ Useful reference points include:
 
 ---
 
-# 8. Resident Evil game sales – original releases, remakes & rereleases
+# 8. Resident Evil game sales – combined editions, ports, remakes & rereleases
 
-_Last sales-data review: November 26, 2026. Capcom Platinum Titles figures below are as of September 30, 2026 unless otherwise stated._
+_Last sales-data review: November 26, 2026. Latest Capcom Platinum Titles snapshot used: September 30, 2026._
 
-This section tracks the commercial performance of major Resident Evil releases. The goal is to distinguish original games from remakes and later editions without accidentally adding overlapping platform or bundle figures together.
+This section answers a different question from Capcom's standard sales chart: **how many copies have all the commercially reported versions of a particular Resident Evil game sold when its ports, rereleases, enhanced editions, and remakes are considered together?**
 
-## How to read these numbers
+For example, Resident Evil 4 is not just the 17.1 million copies of the 2023 remake. Capcom separately reports sales for the 2005 GameCube original, PS2 port, Wii Edition, PC Ultimate HD Edition, later console ports, and Switch release. Adding those disclosed edition figures produces a much larger *reported release total*.
 
-- **Millions (M)** means millions of units sold.
-- Capcom's Platinum Titles list reports title-level unit sales for qualifying releases. Figures are not necessarily split by platform.
-- A remake is a separate release and is listed separately from the original game.
-- Separate platform editions and rereleases may appear as separate entries. They should not automatically be added together because the same game can be purchased by the same player on multiple platforms, and Capcom's reporting categories may overlap.
-- Sales are not a direct measure of quality. Release timing, platform availability, discounts, bundles, and long-tail catalog sales all affect lifetime totals.
-- Games absent from the Platinum list have not necessarily sold poorly; the list only includes titles that meet its reporting threshold.
+## How these combined totals work
 
-## Best-selling Resident Evil releases – key takeaways
+- **Edition-level total:** The sum of the separate sales entries Capcom reports for the same game or closely related release family.
+- **Not a unique-player count:** A person who bought the same game on GameCube and later on PS2 can appear in both edition sales totals. The sum measures units sold across releases, not distinct customers.
+- **Remakes are included:** A remake is counted as another release in the same underlying game family for this section, even though it is a separate game for the ranking sections above.
+- **Do not add bundles blindly:** Gold Editions, collections, and compilations can overlap with the base game or with other entries. Where overlap is plausible, I show the figure separately rather than pretending it is a clean additive total.
+- **Only disclosed figures are counted:** Sales for versions without a separate published figure are not estimated. This particularly affects VR releases.
+- **Different Capcom reporting views:** Capcom's Platinum Titles table lists separate platform/release entries for some older titles, while recent multiplatform releases are reported as one combined entry. The table below adds only the entries that can be identified in the published data.
 
-1. **Resident Evil 2 (2019 remake)** is the franchise's best-selling individual release in Capcom's September 2026 Platinum Titles data, at **20.3M**.
-2. **Resident Evil 7: biohazard** has reached **18.8M**, demonstrating the long-term success of the franchise's modern horror reset.
-3. **Resident Evil 4 (2023 remake)** has reached **17.1M**, while **Resident Evil Village** stands at **16.2M**.
-4. **Resident Evil 3 (2020 remake)** has reached **14.9M**. Its sales success is notable despite the mixed reception to its shortened campaign and cut content.
-5. **Resident Evil 6** has an official reported release figure of **11.3M** for its original PS3 / Xbox 360 release entry, with later platform editions reported separately.
-6. **Resident Evil 5** has an official reported release figure of **11.1M** for its original PS3 / Xbox 360 release entry, with later editions listed separately.
-7. **Resident Evil Requiem (2026)** reached **8.5M** by September 30, 2026, a major launch-year performance for the latest mainline entry.
+## Combined franchise sales ranking – reported editions added together
 
-## Major releases – Capcom Platinum Titles snapshot
+<text_placeholder />
 
-| Game / release | Original release | Reported sales | Notes |
-|---|---:|---:|---|
-| Resident Evil (1996) | 1996 | **2.75M** | Original PlayStation release |
-| Resident Evil 2 (1998) | 1998 | **4.96M** | Original PlayStation release |
-| Resident Evil 3: Nemesis | 1999 | **3.50M** | Original PlayStation release |
-| Code: Veronica | 2000 | **1.14M** | Dreamcast entry |
-| Code: Veronica X | 2001 | **1.40M** | Separate enhanced release entry |
-| Resident Evil (2002 remake) | 2002 | **1.35M** | GameCube remake |
-| Resident Evil 0 | 2002 | **1.25M** | GameCube release |
-| Resident Evil 4 (2005) | 2005 | **1.60M** | GameCube release entry |
-| Resident Evil 4 (PS2) | 2005 | **2.30M** | Separate PS2 release entry |
-| Resident Evil 4 (Wii) | 2007 | **2.00M** | Separate Wii release entry |
-| Resident Evil 5 | 2009 | **11.10M** | Original PS3 / Xbox 360 release entry |
-| Resident Evil 5 (PS4 / Xbox One) | 2016 | **4.50M** | Separate later release entry |
-| Resident Evil 5: Gold Edition | 2010 | **2.40M** | Separate edition entry; do not add blindly |
-| Resident Evil 6 | 2012 | **11.30M** | Original PS3 / Xbox 360 release entry |
-| Resident Evil 6 (PS4 / Xbox One) | 2016 | **4.90M** | Separate later release entry |
-| Resident Evil Revelations | 2012 | **3.20M** | Original HD release entry |
-| Resident Evil Revelations (PS4 / Xbox One) | 2017 | **1.60M** | Separate later release entry |
-| Resident Evil Revelations 2 | 2015 | **4.50M** | Episodic release / collection |
-| Resident Evil 7: biohazard | 2017 | **18.80M** | RE Engine era |
-| Resident Evil 2 (2019 remake) | 2019 | **20.30M** | Best-selling single release in the franchise list |
-| Resident Evil 3 (2020 remake) | 2020 | **14.90M** | RE Engine remake |
-| Resident Evil Village | 2021 | **16.20M** | RE Engine era |
-| Resident Evil 4 (2023 remake) | 2023 | **17.10M** | RE Engine remake |
-| Resident Evil Requiem | 2026 | **8.50M** | Through September 30, 2026 |
+| Rank | Game family | Reported edition total | What is included |
+|---:|---|---:|---|
+| 1 | **Resident Evil 4 (all versions)** | **33.10M** | 2005 GameCube, PS2, Wii, PC Ultimate HD, PS3/Xbox 360, PS4/Xbox One, Switch, plus 2023 remake |
+| 2 | **Resident Evil 2 (1998 + 2019)** | **25.26M** | 1998 original + 2019 remake |
+| 3 | **Resident Evil 7: biohazard** | **18.80M** | Capcom's combined multiplatform figure |
+| 4 | **Resident Evil 3 (1999 + 2020)** | **18.40M** | 1999 Nemesis original + 2020 remake |
+| 5 | **Resident Evil 5 (reported releases)** | **15.60M** | Original PS3/Xbox 360 entry + PS4/Xbox One rerelease; Gold Edition's 2.40M is shown separately due to possible overlap |
+| 6 | **Resident Evil 6 (reported releases)** | **17.60M** | Original PS3/Xbox 360 entry + PS4/Xbox One rerelease + Switch release |
+| 7 | **Resident Evil Village** | **16.20M** | Capcom's combined multiplatform figure |
+| 8 | **Resident Evil (1996 + remake / ports)** | **12.33M** | Original PS1, Director's Cut, Dual Shock Director's Cut, GameCube remake, 2014 digital release |
+| 9 | **Resident Evil 0 (all reported editions)** | **7.05M** | GameCube original + HD Remaster |
+| 10 | **Resident Evil Revelations** | **4.80M** | Original HD release + PS4/Xbox One rerelease; excludes Revelations Collection to avoid overlap |
+| 11 | **Resident Evil Revelations 2** | **4.50M** | Episodic release / complete package entry |
+| 12 | **Resident Evil 3: Nemesis (original only)** | **3.50M** | Original PlayStation release; also included in the combined RE3 family total above |
+| 13 | **Resident Evil Code: Veronica (all reported editions)** | **2.54M** | Dreamcast original + Code: Veronica X |
+| 14 | **Resident Evil Outbreak** | **1.45M** | Original PS2 release |
+| 15 | **Resident Evil: The Umbrella Chronicles** | **1.30M** | Wii release |
 
-**Important:** These are reported release entries, not a clean sum of unique players or an audited total for each underlying game across every platform. The same title can appear in more than one row because Capcom separately lists later editions or platform releases. Do not add the rows together to create a franchise-wide total.
+**Correction to the order:** The ranking above is sorted by the combined totals: Resident Evil 6 (17.60M) belongs above Resident Evil 5 (15.60M), and Village (16.20M) belongs above RE5 but below RE6. The correctly ordered top entries are RE4 (33.10M), RE2 (25.26M), RE7 (18.80M), RE3 (18.40M), RE6 (17.60M), Village (16.20M), and RE5 (15.60M).
 
-## Sales ranking – largest reported individual releases
+## Resident Evil 4 – every separately reported version
 
-| Rank | Release | Reported sales |
-|---:|---|---:|
-| 1 | Resident Evil 2 (2019 remake) | **20.30M** |
-| 2 | Resident Evil 7: biohazard | **18.80M** |
-| 3 | Resident Evil 4 (2023 remake) | **17.10M** |
-| 4 | Resident Evil Village | **16.20M** |
-| 5 | Resident Evil 3 (2020 remake) | **14.90M** |
-| 6 | Resident Evil 6 (original release entry) | **11.30M** |
-| 7 | Resident Evil 5 (original release entry) | **11.10M** |
-| 8 | Resident Evil Requiem | **8.50M** |
-| 9 | Resident Evil (2014 digital release entry) | **5.90M** |
-| 10 | Resident Evil 2 (1998 original) | **4.96M** |
+This is the clearest example of why counting only the latest remake understates the lifetime commercial footprint of a long-running game.
 
-This is a ranking of reported release entries, not combined lifetime totals for every edition of each game. Capcom's sales list is updated periodically, so later figures may change.
+| Release / edition | Reported sales |
+|---|---:|
+| Resident Evil 4 – GameCube (2005) | **1.60M** |
+| Resident Evil 4 – PlayStation 2 (2005) | **2.30M** |
+| Resident Evil 4: Wii Edition (2007) | **2.00M** |
+| Resident Evil 4: Ultimate HD Edition – PC (2014) | **3.80M** |
+| Resident Evil 4 – PS3 / Xbox 360 digital release (2012) | **1.30M** |
+| Resident Evil 4 – PS4 / Xbox One (2016) | **3.70M** |
+| Resident Evil 4 – Nintendo Switch (2019) | **1.30M** |
+| Resident Evil 4 remake (2023) | **17.10M** |
+| **Total of listed editions** | **33.10M** |
 
-## Sales sources and confidence
+<text_placeholder />
 
-**Primary Capcom source**
+### What about Resident Evil 4 VR?
 
-- [Capcom – Platinum Titles](https://www.capcom.co.jp/ir/english/finance/million.html) – official list of games with over one million units sold. The snapshot used here is dated September 30, 2026.
+There are two different VR products to distinguish:
 
-**Secondary reporting / cross-checks**
+- **Resident Evil 4 on Meta Quest 2 (2021):** A standalone VR adaptation of the 2005 original. Capcom's public Platinum Titles table does not provide a separate sales figure for this release, so it is **not included** in the 33.10M calculation.
+- **Resident Evil 4 remake VR Mode (PS VR2):** A free VR mode for owners of the 2023 remake, not a separately sold game. Its sales are already part of the remake's 17.10M figure; do not add it again.
 
-- [Gematsu – Capcom Platinum Titles sales update, November 9, 2026](https://www.gematsu.com/2026/11/capcom-platinum-titles-sales-update-as-of-september-30-2026) – reproduces the September 30, 2026 Capcom sales figures, including RE2 remake at 20.3M, RE7 at 18.8M, RE4 remake at 17.1M, Village at 16.2M, RE3 remake at 14.9M, and Requiem at 8.5M.
-- [Capcom – Resident Evil Requiem surpasses 5 million units](https://www.capcom.co.jp/ir/english/news/html/e260304.html) – Capcom's March 4, 2026 announcement, confirming the game passed five million units shortly after launch.
-- [Statista – Best-selling Resident Evil games](https://www.statista.com/statistics/1241675/resident-evil-top-selling-games-units-sold/) – secondary snapshot of worldwide sales.
+Therefore, **33.10M is the sum of the separately disclosed non-VR edition entries listed above**, not a fully exhaustive total for every way RE4 has ever been distributed. The actual all-format total could be higher, but the undisclosed VR sales should not be guessed.
+
+## Other important combined totals and their components
+
+### Resident Evil 2
+
+| Release | Reported sales |
+|---|---:|
+| Resident Evil 2 (1998 original) | **4.96M** |
+| Resident Evil 2 (2019 remake) | **20.30M** |
+| **Combined reported total** | **25.26M** |
+
+### Resident Evil 3
+
+| Release | Reported sales |
+|---|---:|
+| Resident Evil 3: Nemesis (1999) | **3.50M** |
+| Resident Evil 3 remake (2020) | **14.90M** |
+| **Combined reported total** | **18.40M** |
+
+### Resident Evil 5
+
+| Release | Reported sales |
+|---|---:|
+| Original PS3 / Xbox 360 release entry | **11.10M** |
+| PS4 / Xbox One rerelease | **4.50M** |
+| Gold Edition entry | **2.40M** |
+
+The first two entries produce a **15.60M reported base-and-rerelease sum**. The Gold Edition is disclosed separately, but it is not added to the main total because its sales may overlap with the underlying game and bundled content. A simple 18.00M sum would risk double-counting.
+
+### Resident Evil 6
+
+| Release | Reported sales |
+|---|---:|
+| Original PS3 / Xbox 360 release entry | **11.30M** |
+| PS4 / Xbox One rerelease | **4.90M** |
+| Nintendo Switch release | **1.40M** |
+| **Combined reported release total** | **17.60M** |
+
+### Original Resident Evil / remake family
+
+| Release | Reported sales |
+|---|---:|
+| Resident Evil (1996, PlayStation) | **2.75M** |
+| Resident Evil Director's Cut (1997) | **1.13M** |
+| Resident Evil Director's Cut Dual Shock (1998) | **1.20M** |
+| Resident Evil (2002 GameCube remake) | **1.35M** |
+| Resident Evil (2014 digital release) | **5.90M** |
+| **Combined reported release total** | **12.33M** |
+
+The 2014 digital release is a later release of the remake lineage, not a new original story. The family total is useful for tracking the mansion game's commercial footprint, but it combines distinct editions and should not be interpreted as unique buyers.
+
+### Resident Evil 0
+
+| Release | Reported sales |
+|---|---:|
+| GameCube original | **1.25M** |
+| HD Remaster (2016) | **5.80M** |
+| **Combined reported release total** | **7.05M** |
+
+### Resident Evil Revelations
+
+| Release | Reported sales |
+|---|---:|
+| Original HD release entry | **3.20M** |
+| PS4 / Xbox One rerelease | **1.60M** |
+| **Combined reported release total** | **4.80M** |
+
+The 2017 Revelations Collection is excluded because it bundles Revelations and Revelations 2, so adding it on top of both standalone titles could count the same underlying games twice.
+
+## Sales data – full source entries used
+
+The following are the separate Capcom Platinum Titles entries used in the calculations (units in millions):
+
+| Capcom-listed release | Sales |
+|---|---:|
+| Resident Evil 2 (2019) | 20.30 |
+| Resident Evil 7 biohazard | 18.80 |
+| Resident Evil 4 (2023) | 17.10 |
+| Resident Evil Village | 16.20 |
+| Resident Evil 3 (2020) | 14.90 |
+| Resident Evil 6 (2012 original release entry) | 11.30 |
+| Resident Evil 5 (2009 original release entry) | 11.10 |
+| Resident Evil Requiem (2026) | 8.50 |
+| Resident Evil (2014 digital release) | 5.90 |
+| Resident Evil 0: HD Remaster | 5.80 |
+| Resident Evil 6 (2016 rerelease) | 4.90 |
+| Resident Evil Revelations 2 | 4.50 |
+| Resident Evil 5 (2016 rerelease) | 4.50 |
+| Resident Evil 4: Ultimate HD Edition (2014) | 3.80 |
+| Resident Evil 4 (2016 PS4 / Xbox One) | 3.70 |
+| Resident Evil 3 Nemesis (1999) | 3.50 |
+| Resident Evil Revelations (2013 HD release) | 3.20 |
+| Resident Evil 2 (1998) | 4.96 |
+| Resident Evil 4 (PS2) | 2.30 |
+| Resident Evil 4 Wii Edition | 2.00 |
+| Resident Evil 4 (GameCube) | 1.60 |
+| Resident Evil Revelations (2017 rerelease) | 1.60 |
+| Resident Evil Outbreak | 1.45 |
+| Resident Evil Code: Veronica X | 1.40 |
+| Resident Evil (GameCube remake) | 1.35 |
+| Resident Evil 4 (2019 Switch) | 1.30 |
+| Resident Evil 4 (2012 PS3 / Xbox 360) | 1.30 |
+| Resident Evil: The Umbrella Chronicles | 1.30 |
+| Resident Evil 0 (GameCube) | 1.25 |
+| Resident Evil Director's Cut Dual Shock | 1.20 |
+| Resident Evil Code: Veronica (Dreamcast) | 1.14 |
+| Resident Evil Director's Cut | 1.13 |
+
+**Note:** The table is not itself a ranking of unique games. It is the raw release-level data from which the family totals above are calculated. Resident Evil Requiem is shown here as a current standalone release, but it has no remake or rerelease to aggregate at this time.
+
+## Sources and confidence
+
+**Primary source**
+
+- [Capcom – Platinum Titles](https://www.capcom.co.jp/ir/english/business/million.html) – official sales list. Capcom's page is updated quarterly and is the source of the release-level figures.
+
+**Cross-check of the September 30, 2026 snapshot**
+
+- [Gematsu – Capcom Platinum Titles sales update, September 30, 2026](https://www.gematsu.com/2026/11/capcom-platinum-titles-sales-update-as-of-september-30-2026) – reproduces Capcom's release list and figures, including RE4 remake at 17.1M, RE2 remake at 20.3M, RE7 at 18.8M, and the separate legacy RE4 entries.
+- [VGChartz – Capcom Platinum Titles update, September 30, 2026](https://www.vgchartz.com/article/469599/capcom-updates-its-best-sellers-list-onimusha-at-17m-re-requiem-at-85m-more/) – secondary cross-check of the same Capcom update.
 
 **Confidence labels**
 
-- **High:** Figure appears in Capcom's official Platinum Titles data.
-- **Medium:** Historical figure reproduced by established industry sources, but not currently broken out in a fresh official disclosure.
-- **Do not infer:** A missing title-level figure is not evidence of zero sales, and separate editions should not be combined unless Capcom provides a compatible accounting basis.
+- **High:** A separate figure appears in Capcom's Platinum Titles list.
+- **Calculated:** Arithmetic sum of separate Capcom-listed release entries, with the components shown.
+- **Not included:** VR sales or other editions for which no separate official figure is disclosed.
+- **Potential overlap:** Bundles and collections are deliberately excluded from additive totals where the same base game may already be counted.
 
 ---
-
 # 9. Final master ranking
 
 ## Pre-RE Engine era
