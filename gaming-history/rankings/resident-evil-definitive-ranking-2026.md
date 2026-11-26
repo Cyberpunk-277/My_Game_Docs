@@ -241,6 +241,25 @@ The era is not exclusively first-person. The RE2, RE3, and RE4 remakes use the s
 | 5 | Resident Evil 7 (2017) | Gold Edition / Gold Bundle |
 | 6 | Resident Evil 3 (2020) | PS5 / Xbox Series / PC |
 
+## Your personal RE Engine ranking
+
+This is the user's own ranking, kept separate from the editorial/consensus ranking above. It reflects personal preference rather than a weighted average of critic reception, fan consensus, franchise influence, or accessibility.
+
+| Personal rank | Game |
+|---:|---|
+| 1 | **Resident Evil 4 (2023 remake)** |
+| 2 | **Resident Evil Requiem (2026 / RE9)** |
+| 3 | **Resident Evil 2 (2019 remake)** |
+| 4 | **Resident Evil Village (2021)** |
+| 5 | **Resident Evil 7: biohazard (2017)** |
+| 6 | **Resident Evil 3 (2020 remake)** |
+
+**Personal order at a glance:** RE4 Remake > Requiem > RE2 Remake > Village > RE7 > RE3 Remake.
+
+This order places the two strongest modern action-horror experiences at the top, with Requiem ahead of RE2 Remake. Village ranks above RE7, while RE3 Remake remains sixth. These placements are the user's stated preferences; they are not presented as critic or community consensus.
+
+---
+
 **Why RE7 is not automatically #1:** RE7 is the foundational reset and arguably the scariest modern entry. RE2 remake edges it out as the strongest overall package because of its interconnected level design, pacing, character campaigns, and balance of horror and action. Requiem's high placement reflects its strong overall design and replayability, while recognizing that it is a newer game whose long-term reputation is still developing.
 
 ---
@@ -661,6 +680,17 @@ The following are the separate Capcom Platinum Titles entries used in the calcul
 | 3 | Resident Evil Requiem (2026) |
 | 4 | Resident Evil Village |
 | 5 | Resident Evil 7: biohazard |
+| 6 | Resident Evil 3 (2020 remake) |
+
+## Your personal RE Engine ranking
+
+| Personal rank | Game |
+|---:|---|
+| 1 | Resident Evil 4 (2023 remake) |
+| 2 | Resident Evil Requiem (2026 / RE9) |
+| 3 | Resident Evil 2 (2019 remake) |
+| 4 | Resident Evil Village (2021) |
+| 5 | Resident Evil 7: biohazard (2017) |
 | 6 | Resident Evil 3 (2020 remake) |
 
 ## Essential spin-offs
