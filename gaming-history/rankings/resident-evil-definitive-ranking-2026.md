@@ -458,7 +458,6 @@ For example, Resident Evil 4 is not just the 17.1 million copies of the 2023 rem
 
 ## Combined franchise sales ranking – reported editions added together
 
-<text_placeholder />
 
 | Rank | Game family | Reported edition total | What is included |
 |---:|---|---:|---|
@@ -466,9 +465,9 @@ For example, Resident Evil 4 is not just the 17.1 million copies of the 2023 rem
 | 2 | **Resident Evil 2 (1998 + 2019)** | **25.26M** | 1998 original + 2019 remake |
 | 3 | **Resident Evil 7: biohazard** | **18.80M** | Capcom's combined multiplatform figure |
 | 4 | **Resident Evil 3 (1999 + 2020)** | **18.40M** | 1999 Nemesis original + 2020 remake |
-| 5 | **Resident Evil 5 (reported releases)** | **15.60M** | Original PS3/Xbox 360 entry + PS4/Xbox One rerelease; Gold Edition's 2.40M is shown separately due to possible overlap |
-| 6 | **Resident Evil 6 (reported releases)** | **17.60M** | Original PS3/Xbox 360 entry + PS4/Xbox One rerelease + Switch release |
-| 7 | **Resident Evil Village** | **16.20M** | Capcom's combined multiplatform figure |
+| 5 | **Resident Evil 6 (reported releases)** | **17.60M** | Original PS3/Xbox 360 entry + PS4/Xbox One rerelease + Switch release |
+| 6 | **Resident Evil Village** | **16.20M** | Capcom's combined multiplatform figure |
+| 7 | **Resident Evil 5 (reported releases)** | **15.60M** | Original PS3/Xbox 360 entry + PS4/Xbox One rerelease; Gold Edition's 2.40M is shown separately due to possible overlap |
 | 8 | **Resident Evil (1996 + remake / ports)** | **12.33M** | Original PS1, Director's Cut, Dual Shock Director's Cut, GameCube remake, 2014 digital release |
 | 9 | **Resident Evil 0 (all reported editions)** | **7.05M** | GameCube original + HD Remaster |
 | 10 | **Resident Evil Revelations** | **4.80M** | Original HD release + PS4/Xbox One rerelease; excludes Revelations Collection to avoid overlap |
@@ -478,7 +477,7 @@ For example, Resident Evil 4 is not just the 17.1 million copies of the 2023 rem
 | 14 | **Resident Evil Outbreak** | **1.45M** | Original PS2 release |
 | 15 | **Resident Evil: The Umbrella Chronicles** | **1.30M** | Wii release |
 
-**Correction to the order:** The ranking above is sorted by the combined totals: Resident Evil 6 (17.60M) belongs above Resident Evil 5 (15.60M), and Village (16.20M) belongs above RE5 but below RE6. The correctly ordered top entries are RE4 (33.10M), RE2 (25.26M), RE7 (18.80M), RE3 (18.40M), RE6 (17.60M), Village (16.20M), and RE5 (15.60M).
+**Ranking note:** These positions reflect the arithmetic totals in this table, not a separate Capcom-published family ranking.
 
 ## Resident Evil 4 – every separately reported version
 
@@ -496,7 +495,6 @@ This is the clearest example of why counting only the latest remake understates 
 | Resident Evil 4 remake (2023) | **17.10M** |
 | **Total of listed editions** | **33.10M** |
 
-<text_placeholder />
 
 ### What about Resident Evil 4 VR?
 
