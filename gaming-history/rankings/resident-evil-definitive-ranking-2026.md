@@ -469,7 +469,8 @@ For example, Resident Evil 4 is not just the 17.1 million copies of the 2023 rem
 | 6 | **Resident Evil Village** | **16.20M** | Capcom's combined multiplatform figure |
 | 7 | **Resident Evil 5 (reported releases)** | **15.60M** | Original PS3/Xbox 360 entry + PS4/Xbox One rerelease; Gold Edition's 2.40M is shown separately due to possible overlap |
 | 8 | **Resident Evil (1996 + remake / ports)** | **12.33M** | Original PS1, Director's Cut, Dual Shock Director's Cut, GameCube remake, 2014 digital release |
-| 9 | **Resident Evil 0 (all reported editions)** | **7.05M** | GameCube original + HD Remaster |
+| 9 | **Resident Evil Requiem (2026)** | **8.50M** | Current standalone multiplatform figure; no earlier version to combine |
+| 10 | **Resident Evil 0 (all reported editions)** | **7.05M** | GameCube original + HD Remaster |
 | 10 | **Resident Evil Revelations** | **4.80M** | Original HD release + PS4/Xbox One rerelease; excludes Revelations Collection to avoid overlap |
 | 11 | **Resident Evil Revelations 2** | **4.50M** | Episodic release / complete package entry |
 | 12 | **Resident Evil 3: Nemesis (original only)** | **3.50M** | Original PlayStation release; also included in the combined RE3 family total above |
